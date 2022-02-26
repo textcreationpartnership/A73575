@@ -1,0 +1,2421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The marchants avizo Very necessarie for their sonnes and seruants, when they first send them beyond the seas, as to Spaine and Portingale or other countreyes. Made by their hartie wellwiller in Christ. I.B. marchant.</title>
+            <author>J. B. (John Browne), 1526?-1595.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73575</idno>
+            <idno type="STC">STC 3908.4</idno>
+            <idno type="STC">ESTC S124654</idno>
+            <idno type="EEBO-CITATION">99898977</idno>
+            <idno type="PROQUEST">99898977</idno>
+            <idno type="VID">150812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1982:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The marchants avizo Very necessarie for their sonnes and seruants, when they first send them beyond the seas, as to Spaine and Portingale or other countreyes. Made by their hartie wellwiller in Christ. I.B. marchant.</title>
+                  <author>J. B. (John Browne), 1526?-1595.</author>
+               </titleStmt>
+               <extent>[8], 68 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by Richard Field for William Norton, dwelling in Paules Churchyard at the signe of the Queenes armes,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>I.B. = John Browne--STC</note>
+                  <note>Running title reads: The marchants auizo.</note>
+                  <note>Caption title on p. 1: A generall remembrance for a servant when he first trauelleth to the sea, as to Spaine or Portingale, or other countreys.</note>
+                  <note>Reproduction of original in the St. John's College Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Business --  Early works to 1800.</term>
+               <term>Commercial products --  Early works to 1800.</term>
+               <term>Travelers' writings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150812:1"/>
+            <pb facs="tcp:150812:1" rendition="simple:additions"/>
+            <p>THE MARCHANTS AVIZO. VERY NECESSARIE FOR THEIR ſonnes and ſeruants, when they firſt ſend them be<g ref="char:EOLhyphen"/>yond the ſeas, as to Spaine and Portingale or other countreyes. <hi>Made by their hartie well willer in Chriſt. I. B. Marchant.</hi>
+            </p>
+            <q>
+               <bibl>ECCLES. 40.18.</bibl>
+               <p>To labour and to be content with that a man hath, is a ſweet life: but the feare of God is aboue all, &amp;c.</p>
+            </q>
+            <figure>
+               <figDesc>printer's device of Richard Field, featuring an anchor suspended by a hand from the clouds (related to McKerrow 192 and 195 -- possibly an intermediate recutting)</figDesc>
+               <head>
+                  <q>ANCHORA. SPEI</q>
+               </head>
+            </figure>
+            <p>Imprinted at London by Richard Field for Wil<g ref="char:EOLhyphen"/>liam Norton, dwelling in Paules Churchyard at the ſigne of the Queenes armes. 1589.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:150812:2"/>
+            <head>
+               <q>CONSTANTINI CRVX.</q>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>emblem featuring Christ's cross with the five wounds, including the crown of thorns and the sacred heart, encircled by a crown of thorns and a circle of flames</figDesc>
+                  <head>
+                     <q>IN HOC SIGNO VINCES</q>
+                  </head>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150812:2"/>
+            <pb facs="tcp:150812:2"/>
+            <head>TO THE VVOR<g ref="char:EOLhyphen"/>SHIPFVL MAISTER THO<g ref="char:EOLhyphen"/>MAS ALDWORTH MARCHANT of the citie of Briſtowe: and to all the worſhipfull companie of the Marchants of the ſaid citie: your bounden in good will Iohn Browne, wiſheth vnto your worſhips, felicitie in heauen, and proſperitie in earth.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Orſhipfull, vpon verie earneſt motion &amp; perſuaſion of a friend vnto me, to ſet foorth in publick this matter, which I onely had made priuate for inſtruction of me and mine. And then calling to remembrance ſome neceſſitie and dutie: neceſſitie, becauſe by mine own experience I know how greatly my ſelfe and many other my countrimen, at our firſt going into Spaine were troubled with difficul<g ref="char:EOLhyphen"/>ties, for want of ſuch a patterne as this, for eaſe of our tender wittes. And dutie, becauſe I acknowledge my ſelf bounde<g ref="char:cmbAbbrStroke">̄</g>, both to your Worſhip, and to all thoſe of my pro<g ref="char:EOLhyphen"/>feſſion, to employ my whole labours to do you any plea<g ref="char:EOLhyphen"/>ſure or profit that I might. I therefore haue emboldened my ſelfe to dedicate and offer this my poore myte vnto our Worſhips: wherby not onely your name may therin be ſtill remembred, but may alſo make manifeſt your kind fauors, who are ſtill willing to be furtherers of any
+<pb facs="tcp:150812:3"/> generall good. Mine owne labour or skill I confeſſe, is but very litle or nothing in this thing, becauſe I my ſelfe do but only as a poore willing labourer, to help forwards that worke, the foundation &amp; platforme wherof, is ſetled and builded alreadie. But my chiefe purpoſe herein is, onely to worke a generall eaſe to all Marchants: wherby they may the leſſe trouble them ſelues, either with wri<g ref="char:EOLhyphen"/>ting, inuention, or thought of theſe matters. And like<g ref="char:EOLhyphen"/>wiſe that it might be ſome ſtay to young and weake wits: yeelding them therby the more freedome of mind toward their other buſineſſe. Being carefull in my ſelfe to order this worke, that not onely (as I hope) it ſhalbe lawfully permitted to be ſeene and read in anie parts beyond the<note n="*" place="margin">If this booke may not be thought tolle<g ref="char:EOLhyphen"/>rable beyond the ſeas: then will it be yet a good exerciſe and but litle la<g ref="char:EOLhyphen"/>bour, for euery prentice to co<g ref="char:EOLhyphen"/>pie it all out in writing: and ſo carie it with him for his in<g ref="char:EOLhyphen"/>ſtruction.</note> ſea: but alſo ſhal inſtruct young nouices, to vſe grea<g ref="char:EOLhyphen"/>ter breuitie in their writings then commonly they are wont.</p>
+            <p>Wherefore I commit my ſelfe and my doings, firſt to the praiſe of God, and then to your good acceptance and fauourable patronage. Deſiring your Worſhips all, that howſoeuer you do determine of the vnabilitie of this my labour: yet that you vouchſafe to take in good part the abilitie of my loue and good meaning in it. So I reſt, be<g ref="char:EOLhyphen"/>ſeeching God to giue vnto you all, eternall felicitie in heauen, and proſperitie to your liues end here on earth.</p>
+            <closer>
+               <dateline>From my houſe in Briſtow <date>the <hi>26.</hi> day of October. <hi>1589.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Worſhips boun<g ref="char:EOLhyphen"/>den in good will. I. B. MAR.</signed>
+            </closer>
+         </div>
+         <div type="poem" subtype="to_the__reader">
+            <pb facs="tcp:150812:3"/>
+            <head>To the Reader.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen marchants trade proceedes in peace.</l>
+               <l>And labours proſper well:</l>
+               <l>Then common weales in wealth increaſe,</l>
+               <l>As now good<note n="*" place="margin">This was ſpo<g ref="char:EOLhyphen"/>ken when was a long ſtaye of the marchantes trade, to the great decay of many a one.</note> proofe can tell.</l>
+            </lg>
+            <lg>
+               <l>For when the marchants trade was free,</l>
+               <l>His ventures for to make:</l>
+               <l>Then euery art in his degree</l>
+               <l>Some gaines thereof did take.</l>
+            </lg>
+            <lg>
+               <l>The marchant made the Clothier rich,</l>
+               <l>By venting of his cloth:</l>
+               <l>The Clothier then ſets many at worke.</l>
+               <l>And helpeth euery crafte.</l>
+            </lg>
+            <lg>
+               <l>For firſt the Spinſter hereby liue,</l>
+               <l>The Weauer and the Dier:</l>
+               <l>By cloth, the Shearman alſo thriue,</l>
+               <l>When Marchant is the buyer.</l>
+            </lg>
+            <lg>
+               <l>The Landlord and the Tenant ſell,</l>
+               <l>By this meanes all their wooll:</l>
+               <l>Their Biefe, their Corne, they ſell the more,</l>
+               <l>When Marchants purſe grow full.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150812:4"/>
+               <l>The Grocer with the Vintener,</l>
+               <l>And Mercer profit reape:</l>
+               <l>When Spices, Silks, and Wines, come ſtore,</l>
+               <l>By Marchants ventures great.</l>
+            </lg>
+            <lg>
+               <l>The Vitler and the Husbandman.</l>
+               <l>And handicraftes ech on:</l>
+               <l>Makes gaines, when Marcha<g ref="char:cmbAbbrStroke">̄</g>ts Ships &amp; goods</l>
+               <l>Doe merily come home.</l>
+            </lg>
+            <lg>
+               <l>The Sailers herehence gets their skill,</l>
+               <l>To rule the ſtately Ship</l>
+               <l>And ſo become right worthy men,</l>
+               <l>For Sea and Land moſt fit.</l>
+            </lg>
+            <lg>
+               <l>Yea diuers more the Marchants trade,</l>
+               <l>Doth ſuccour and relieue:</l>
+               <l>As Bargeman, Craneman, Porter eke,</l>
+               <l>To him that Cart doth driue.</l>
+            </lg>
+            <lg>
+               <l>Let no man then grudg Marchants ſtate,</l>
+               <l>Nor wiſhe him any ill:</l>
+               <l>But pray to God our Queene to ſaue,</l>
+               <l>And Marchants ſtate help ſtill.</l>
+            </lg>
+            <closer>
+               <signed>I B</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:150812:4"/>
+            <head>THE TABLE OF THOSE things which are contained in this Booke.</head>
+            <list>
+               <item>
+                  <hi>A</hi> Generall remembrance for a ſeruant at his firſt going to ſea. folio <hi>1.</hi>
+               </item>
+               <item>A letter to ſend to his maiſter when he is forced by weather into any Port vpon his voyage. folio <hi>8</hi>
+               </item>
+               <item>A letter to be ſent preſently vpon his arriuall at his Port. folio <hi>9</hi>
+               </item>
+               <item>A letter to be ſent next after his firſt letter that he wrote of his arriuall. folio <hi>10</hi>
+               </item>
+               <item>A letter to be ſent from his ſecond Port of arriuall. folio <hi>12</hi>
+               </item>
+               <item>A letter to be ſent in that ſhippe where he hath la<g ref="char:EOLhyphen"/>den goods. folio <hi>13</hi>
+               </item>
+               <item>A letter to be ſent vnto one that hath left ſome bu<g ref="char:EOLhyphen"/>ſineſſe to do vnder your hands. folio <hi>14</hi>
+               </item>
+               <item>A letter of thankes to a friend that hath done you ſome pleaſure: wherein you alſo requeſt againe ſome farther good turne of him. folio <hi>15</hi>
+               </item>
+               <item>A letter to deſire the goodwill of a friend to helpe you in ſome matter of your buſineſſe. folio <hi>16</hi>
+               </item>
+               <item>Certaine briefe notes worthy obſeruation: as first of the Kintal or hundred waight of Portingale, Spaine, and France. folio <hi>18</hi>
+               </item>
+               <item>Of the meaſure of cloth in Portingale, Spaine, and France. folio <hi>19</hi>
+               </item>
+               <item>Of the meaſure of corne and ſalt in Portingal, Spaine and France. folio <hi>20</hi>
+               </item>
+               <item>Of the value of moneyes, in Portingale, Spaine, and France. folio <hi>21</hi>
+               </item>
+               <pb facs="tcp:150812:5"/>
+               <item>A briefe inſtruction for the better knowledge of di<g ref="char:EOLhyphen"/>uerſe wares of Portingale, Spaine and France. folio <hi>23</hi>
+               </item>
+               <item>A briefe forme for making a Spaniſh or any other accompt. folio <hi>30</hi>
+               </item>
+               <item>A rule to take out your prouiſion of two and a halfe in the hundred. fol. <hi>32.</hi> And alſo in what ſort you muſt gather it vpon the Impliments. folio <hi>34</hi>
+               </item>
+               <item>A rule to bring Portingale Res into Spaniſh Mer<g ref="char:EOLhyphen"/>uedis. folio <hi>46</hi>
+               </item>
+               <item>Diuerſe particular notes worthy obſeruation, as ap<g ref="char:EOLhyphen"/>peareth in euery leafe of the Spaniſh accompt, beginning fol. <hi>30.</hi>
+               </item>
+               <item>A forme for making a bill of lading. folio <hi>49</hi>
+               </item>
+               <item>A marchants particular remembrance. folio <hi>50</hi>
+               </item>
+               <item>A bill of exchange for the countrey of Spaine and elſewhere. folio <hi>53</hi>
+               </item>
+               <item>A bill of exchange for our country of England. Ibid.</item>
+               <item>An acquittance. folio <hi>54</hi>
+               </item>
+               <item>A bill of atturney. Ibid.</item>
+               <item>A bill of debt. folio <hi>55</hi>
+               </item>
+               <item>A bond or Obligation. folio <hi>56</hi>
+               </item>
+               <item>A pollicie for aſſurance. Ibid.</item>
+               <item>Certaine godly ſentences, neceſſary for a youth to me<g ref="char:EOLhyphen"/>ditate vpon. folio <hi>61</hi>
+               </item>
+               <item>The concluſion, which is an hiſtorie very profitable and delightfull for a youth to reade and meditate. folio <hi>65</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="instructions">
+            <pb n="1" facs="tcp:150812:5"/>
+            <head>A GENERALL REMEMBRANCE FOR A SERVANT WHEN HE FIRST trauelleth to the Sea, as to Spaine or Por<g ref="char:EOLhyphen"/>tingale, or other countreyes.</head>
+            <opener>
+               <dateline>
+                  <hi>Emanuel</hi>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg> GENERAL remem<g ref="char:EOLhyphen"/>brance for you my ſer<g ref="char:EOLhyphen"/>uant I. A. that when it pleaſeth God you ſhall trauell vnto the ſea, firſt &amp; principally you doe not forget v<g ref="char:EOLhyphen"/>pon your fafe arriuall at your Port, to giue vnto God moſt hartie and humble<note n="*" place="margin">For to feare God, and to be thankefull vnto him, is the be<g ref="char:EOLhyphen"/>ginning of all happineſſe and proſperitie in our affaires.</note> thankes for his gracious protection of you, by ſaying as in token of your thankefulneſſe, ſome godly prayer of thankeſgiuing, or ſay onely with re<g ref="char:EOLhyphen"/>uerence the Lords prayer, giuing him withall thankes in ſome wordes of your owne ſpirit.</p>
+            <p>Secondly, that preſently vpon your arriuall, you doe make diligent inquirie, whether anie
+<pb n="2" facs="tcp:150812:6"/> ſhips be bound either to this Port of Briſtowe, or to any part of England. And then haue eſpe<g ref="char:EOLhyphen"/>ciall care, that the neereſt that commeth to this Port, you write letters by them vnto me, and to them that you haue to deale for, of the arriuall of your ſhip: according to this plaine and briefe forme of inditing, as I will hereafter ſhew you. And ſo write likewiſe by your firſt letters, of the ſtate of your buſineſſe, and of the newes of the country, according as that time paſſeth. And when you haue learned of anie ſhip that commeth for England, doe not your ſelfe make it<note n="*" place="margin">This I ſay: to procure the more care and diligence in a youth.</note> knowen to anie bodie at all: but write and deliuer your letters ſecretlie, for it ſhall ſound much to your eſpeciall credit and good liking, when your diligence ſhall be ſo ſeene, that your letters ſhall ſhew the firſt arri<g ref="char:EOLhyphen"/>uall of your Ship: becauſe it is the thing that euerie Marchant doth eſpecially long after to vnderſtand.</p>
+            <p>Thirdly, deale cloſely &amp; ſecretly in all your affaires and buſynes, and before you enterpriſe any thing, doe you after curteous and gentle manner aske counſel, either of ſome Marchant in the Ship, or your Hoſte, or of ſome Engliſh man: how you are to deale about your wares, both touching the landing it, the cuſtoming it, the ſelling it, the receauing of your moneyes, the buying of any wares againe, the cuſtoming the ſame againe, and to haue out all your writs
+<pb n="3" facs="tcp:150812:6"/> and diſpatches for euery ſuch thing, as is need<g ref="char:EOLhyphen"/>full to be had. And hauing bin thus once in<g ref="char:EOLhyphen"/>ſtructed, do you with carefullnes remember it of your ſelfe againſt another time. Alſo be ear<g ref="char:EOLhyphen"/>neſt in noting &amp; marking euery thing that you may, but be your ſelfe as ſecret and ſilent as is poſſible.</p>
+            <p>Fourthly in any caſe ſhew your ſelfe lowly, curteous, and ſeruiceable vnto euery perſon: for though you &amp; many of vs elſe may think, that too much lowlineſſe bringeth contempt and diſgrace vnto vs: yet aſſuredly (it is wel known by experience) that there ſpringeth of no one vertue ſo great fruit vnto vs, as of gentleneſſe and humilitie: for it will both appeaſe the an<g ref="char:EOLhyphen"/>ger and ill will of our enemies, &amp; encreaſe the good will of our friends. Alſo in any wiſe be not ſeduced by any perſon, to play at any kinde of game, eſpecially dice or cards, nor to vſe fea<g ref="char:EOLhyphen"/>ſting or banketing, or keeping company with women, nor to go fine and coſtly in apparell: for all theſe things are eſpecially noted, and doe bring any yong beginner to vtter diſcredit and vndoing.</p>
+            <p>Fiftly carie this for an eſpeciall note, that whenſoeuer you haue dealings for anie mar<g ref="char:EOLhyphen"/>chants, you do in all things and euerie point obſerue according to their commiſſion and di<g ref="char:EOLhyphen"/>rection. For although I knowe, it will ſome<g ref="char:EOLhyphen"/>times ſeeme to your ſelfe, that you ſhall better
+<pb n="4" facs="tcp:150812:7"/> pleaſe your marchant, not to buy thoſe wares which he appointeth, becauſe of the deareneſſe of them: yet (I ſay) you ſhall giue euermore beſt contentment to your marchant, and ſaue your ſelfe harmeleſſe, when you followe his owne order and remembrance. And take this alſo for a caueat, that you neuer think the ſame ware which is beſt cheape, and is moſt bought vp, that it will be beſt to beſtow your money theron: for ordinarily it falleth out, that the quantitie of the beſt cheape wares that is brought home, hath ſmaller vtterance and leſſe profite, then ſuch deare wares as there com<g ref="char:EOLhyphen"/>meth but very litle quantitie of. Alſo be care<g ref="char:EOLhyphen"/>full in ſetting vp ſafely your money when you haue receaued it: and likewiſe be warie whe<g ref="char:cmbAbbrStroke">̄</g> you receiue your moneys for your wares, crauing the paines of ſome marchant your freind, as to helpe you the firſt time to receaue it for you, vntill you haue more knowledge to receaue it your ſelfe.</p>
+            <p>Moreouer be you in any wiſe circumſpect touching your behauiour when you be in the countrey of Spaine or elſe where: and ſhewe your ſelfe lowly and courteous to all people, and learne what be their ciuill lawes and cu<g ref="char:EOLhyphen"/>ſtomes, and be carefull to keepe them. If anie of the rude and common ſort of people (as ſo it is in all countreys) will by chaunce offer you anie abuſe or wrong, appeaſe them againe ra<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:150812:7"/> by ſufferance and gentleneſſe, then by reuenge: for ſo ſhall you beſt quiet your ſelfe, &amp; ouercome your enemie. In the ſales of your wares, doe you, before you ſet price of it to any man, make inquirie howe other Engliſh men haue ſold the like commodities, and ſo do you accordingly ſet priſe of yours. And lightly doe not refuſe the ſecond or third chapmans offer: for moſt ordinarily it falleth out, that the firſt and fourth offer is neuer ſo good as the third offer: but in this you are to haue a good inſight your ſelfe, and to do according as is your haſt and neceſſitie for your ſales.</p>
+            <p>Be moſt faithful &amp; iuſt in all your accompts with euery man, &amp; defraud no man willingly not the value of a farthing. See that at no time you do take any mans doings or dealings into your hands, without my leaue and counſell: be<g ref="char:EOLhyphen"/>cauſe by the trouble of other mens buſineſſe, you may neglect &amp; fruſtrate mine owne. And haue alſo regarde, for thoſe ſmall aduentures which I ſhall licence you to make for your owne priuate benefit, that euery voiage you doe deliuer mean accompt of it, wherby from time to time I may ſee and know your eſtate, and what of right doeth aperteine vnto you. Be circumſpect and nigh in all your expences; making your reckoning, that what you now ſpare and ſaue vnto me, it may grow the more to your owne benefit in time to come.</p>
+            <pb n="6" facs="tcp:150812:8"/>
+            <p>Laſtely let this be yet your firſt and chiefeſt point in all your actions: that eſpecially you o<g ref="char:EOLhyphen"/>mit not your dutifull ſeruice towards almighty God, but euerie morning and night, to pray that God will ſtill proſper and protect you, &amp; to giue him humble thankes that he hitherto hath alwayes mercifully defended you. And this doe you performe, by ſaying ſilentlie, re<g ref="char:EOLhyphen"/>uerently, &amp; atentiuely, ſuch praiers as you haue learned by hart: or it your memorie cannot well reme<g ref="char:cmbAbbrStroke">̄</g>ber any other praier, ſay only to the praiſe of the bleſſed Trinity, the * Lords praier and the<note n="*" place="margin">This order of prayer I haue thought, might be good and godly: both be<g ref="char:EOLhyphen"/>cauſe of the country beyond the ſeas, and becauſe of mar<g ref="char:EOLunhyphen"/>chants lets and hinderance to continue in long prayer.</note> Creed, vſing euermore withall theſe three pointes of meditation. Firſt, to meditate your ſinnes, and aske God hartely mercy, and ſtedfaſtly purpoſe amendment. Secondly, me<g ref="char:EOLhyphen"/>ditate Gods benefits: and humbly thanke him. Thirdly, meditate your neceſsities: and craue his holy helpe for them. The which you may then conlude the effect of theſe meditations, by ſaying laſtly againe the Lords praier. And this dutifull exerciſe of praier, I do require you neuer once to pretermit both at morning &amp; at night, how haſtie and vrgent ſoeuer be your buſineſſe For how great equitie &amp; reaſon is it, that we ſhould ſpend at the leaſt one halfe houre or litle moment of the day in thanks, ſer<g ref="char:EOLhyphen"/>uice, and mindfullnes of God: who is both carefull &amp; mindfull to ſerue &amp; ſuccour vs, euen all the whole day and euer all our life long. Al<g ref="char:EOLhyphen"/>ſo
+<pb n="7" facs="tcp:150812:8"/> neuer ſit downe, or riſe vp from meat, but be mindfull of God: &amp; in expreſsing your thankſ<g ref="char:EOLhyphen"/>giuing, ſay ſome Godly grace or other: or on<g ref="char:EOLhyphen"/>ly ſay (rather then faile) no more then, <hi>In the name of the father, of the ſonne, &amp; of the Holy Ghoſt,</hi> &amp; let thoſe wordes ſhew your thankful<g ref="char:EOLhyphen"/>nes to God. Finally in all your actions, vſe di<g ref="char:EOLhyphen"/>ligence, conſcience, ſilence and patience. Thus making no doubte, but if you be mindfull of your dutie and ſeruice to God, all thinges ſhall go well and haue happy ſucceſſe that you take in hand. But the contrarie doing: your labours will not proſper, nor anie thing that you doe, will euer come to good paſſe or per<g ref="char:EOLhyphen"/>fection. The holy Ghoſt be euermore your Protector.</p>
+            <closer>
+               <signed>Your maſter to doe you any good that you ſhall deſerue. T. A.</signed>
+            </closer>
+         </div>
+         <div type="exemplar_letters">
+            <pb n="8" facs="tcp:150812:9"/>
+            <head>
+               <hi>Here followeth a briefe forme of</hi> all ſuch letters as you ſhall neede to <hi>vvrite throughout your vvhole voyage. The</hi> which forme is effectual &amp; ſufficient inough, <hi>and may ſtill be obſerued, vntill by</hi> expe<g ref="char:EOLhyphen"/>rience you may learne to indite better your ſelfe.</head>
+            <div type="letter">
+               <head>A Letter to be vvritten to your Maſter, if your ship be forced by vveather into any place, before you come to your Port of diſcharge.</head>
+               <opener>
+                  <dateline>Emanuel</dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>FTER my dutie remem<g ref="char:EOLhyphen"/>bred, I pray for your good health and proſperity. &amp;c. Theſe are certifying you, that by meanes of ill wea<g ref="char:EOLhyphen"/>ther and contrarie winds, we were within vi. dayes after our departure from Kingrode, forced into Milford: where here we abide according to Gods pleaſure, hoping that he will ſhortly bet<g ref="char:EOLhyphen"/>ter prouide for vs. Litle newes I heare worth the writing: onely I vnderſtand that there is <hi>[Here vvrite your nevves, if you haue anie.]</hi> Thus taking my leaue with my dutifull com<g ref="char:EOLhyphen"/>mendations remembred to my good miſtreſſe &amp;c. I heartely deſire of God to protect and
+<pb n="9" facs="tcp:150812:9"/> proſper you and all yours. </p>
+               <closer>
+                  <dateline>From Milford <date>the 4. day of October 1589.</date>
+                  </dateline>
+                  <signed>Your faithfull and obedient ſeruant R. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to be vvritten to your Maſter preſently vpon your arriuall at your Port.</head>
+               <opener>
+                  <dateline>Emanuel.</dateline>
+               </opener>
+               <p>AFTER my duetie remembred, I pray for your good health &amp; proſperitie, &amp;c. Theſe are certifying you, that on the 24. day of Octo<g ref="char:EOLhyphen"/>ber, within 16. dayes after our departure from Kingrode, we arriued here at Lisbon (God be thanked) in good ſafetie, and the Gabriel and the Minnyon alſo. As yet we haue not landed our goods nor ſold anie thing, for it is but 3. dayes ſince we arriued. Touching Sales or Im<g ref="char:EOLhyphen"/>pliments, I doe vnderſtand that it will not fall out ſo well as I wiſhed or hoped it would: but I will do my verie beſt indeuor for you accor<g ref="char:EOLhyphen"/>ding as time ſhall ſerue.</p>
+               <p>Brode clothes of the fineſt ſorts, I do heare may be worth about 50. Duckets: and ſorting clothes 38. Duckets: fine Stammels 80. Duc<g ref="char:EOLhyphen"/>kets a cloth: Reading Kerſeis about 14. Duc<g ref="char:EOLhyphen"/>kets a peece: Bayes about 12. Duckets a peece: Lead 19. Rials the Kintal: wheat 3. Rials and a halfe the Alquer. ¶ Of the wares here of the
+<pb n="13" facs="tcp:150812:10"/> countrey: pepper is worth about 50. Duckets the Kintal: cloues 75. Duckets: maces 80. Dks: Nutmegs 80. Duckets: Sinamond 68. Duc<g ref="char:EOLhyphen"/>kets: Callicowes of Sancto Paſſes at 50. Duc<g ref="char:EOLhyphen"/>kets the Corge: Sope at 7. Duckets the Kintal: Braſill at 7. Duckets and a halfe the Kintall: Oyles 86. Duckets the tunne: Salt at 11. Rials the Muy<note n="*" place="margin">Note that you inquire &amp; alſo write the pry<g ref="char:EOLhyphen"/>ſes of all other vendible warrs</note>. Litle newes I heare worth the wri<g ref="char:EOLhyphen"/>ting, onely it is ſayd that the king, &amp;c. <hi>[Here vvrite your nevves.]</hi> Thus taking my leaue with my dutifull commendations remembred to my good Miſtreſſe, &amp;c. I heartely deſire of God to protect and proſper you and all yours. </p>
+               <closer>
+                  <dateline>From Lisbon <date>the 27. day of October. 1589.</date>
+                  </dateline>
+                  <signed>Your faithfull ſeruant whiles I liue. R. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to be vvritten to your Maiſter, or ſome other man that is of vvorship, next after your firſt letter.</head>
+               <opener>
+                  <dateline>Emanuel.</dateline>
+               </opener>
+               <p>AFTER my duetie remembred vnto your Worſhip: I pray for your good health &amp; proſperitie, &amp;c. Theſe are certifying your wor<g ref="char:EOLhyphen"/>ſhip, that by a ſhip of London called the Mar<g ref="char:EOLhyphen"/>chant royall, I wrote to you before of our arri<g ref="char:EOLhyphen"/>ual here at Lisbon. But leſt ſome chance ſhould let the comming of it to your hands, you ſhall
+<pb n="11" facs="tcp:150812:10"/> againe vnderſtand that on the 24. day of Octo<g ref="char:EOLhyphen"/>ber, within 16. dayes after our departure from Kingrode, we arriued here at Lisbon (God be thanked) in good ſafetie, and the Minion and the Gabriel alſo. Touching Sales or Implime<g ref="char:cmbAbbrStroke">̄</g>ts it falleth not out ſo well as I hoped and wiſhed it would: but I haue done my very beſt inde<g ref="char:EOLhyphen"/>uor for you as time ſerued. Your 10. fine brode clothes, I ſold them for 50. Duckets and 6. rials a peece: but they forced me in rebates 8. Duc<g ref="char:EOLhyphen"/>kets vpon the<g ref="char:cmbAbbrStroke">̄</g> all. Your Stammell brode cloth I haue ſold for 84. Duckets and 3. Rials. Your lead I haue ſold for 23. Rials the Kintall. The waxe for 24. Duckets and a halfe the Kintall. And as for your impliments, I haue according vnto your remembrance laden for you in the Gabriell, 6. Kintals and 2. Roues of pepper, which coſt the firſt pennie 50. Duckets the Kintall. Alſo in that ſhip 1. Kintall of Cloues which coſt the firſt pennie 75. Duckets and a halfe: and haue marked it all according to your marke in the margent.<note place="margin">
+                     <figure>
+                        <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                     </figure>
+                  </note>
+               </p>
+               <p>Maſes are here worth 80. Dks. the Kintall: Sinamond 68. Dks. Nutmegs 80. Dks. Calli<g ref="char:EOLhyphen"/>cowes of S. Paſſes at 50. Dks. the Corge. Oyles 86. Dks. the tun: ſope at 7. Dks. the kintal: braſil 7. Dks &amp; a half the kintal: ſalt 11. rials the Muy. ¶ Of our Engliſh commodities: Reding kerſies are worth 14. Dks. a peece: bayes 9. Dks. 4. rials a peece: wheat 3. rials &amp; a halfe the Alquer, &amp;c,</p>
+               <pb n="12" facs="tcp:150812:11"/>
+               <p>Within this fower dayes we hope to make readie to go for Andalozia: God be our good ſpeede whenſoeuer we go. In Andalozia we vnderſta<g ref="char:cmbAbbrStroke">̄</g>d that oyles are worth about 78. Duc<g ref="char:EOLhyphen"/>kets the tunne: and Secks 12. Duckets the But. Litle newes I heare worth the writing: &amp;c. Thus taking my leaue, I commit your wor<g ref="char:EOLhyphen"/>ſhip to Almightie God. </p>
+               <closer>
+                  <dateline>From Lisbon <date>the 7. day of Nouember. 1589.</date>
+                  </dateline>
+                  <signed>Your Worſhips at commandement to the vttermoſt of my power. R. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to be vvritten vpon your arriuall from Lisbon vnto your ſecond Port.</head>
+               <opener>
+                  <dateline>Emanuel.</dateline>
+               </opener>
+               <p>AFTER my duetie remembred, I pray for your good health &amp; proſperitie, &amp;c. Theſe are certifying you, that on the 7. day of Decem<g ref="char:EOLhyphen"/>ber, within 5. dayes after our departure from Lisbon, we arriued at S. Lucar (God be than<g ref="char:EOLhyphen"/>ked) in good ſafetie. Touching ſales or impli<g ref="char:EOLhyphen"/>ments here, it falleth out not ſo well as I ho<g ref="char:EOLhyphen"/>ped and wiſhed it would; but I haue done my very beſt indeuour for you as the time ſerued. Your 12. peeces of bayes I haue ſold for 11. Ds. and 7. Rials the peece: and your 15. tunnes of lead, after 21. Rials the Kintal, &amp;c. <hi>[Here vvrite forvvards as it is in the Letter next before, cha<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ging
+<pb n="13" facs="tcp:150812:11"/> onely the names of the vvares vvhich you haue to buy or ſell in that countrey.]</hi>
+               </p>
+               <closer>
+                  <signed>Your faithfull and obedient ſeruant. R. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to be ſent in that ship vvhere you haue laden goods for any Marchant.</head>
+               <opener>
+                  <dateline>Emanuel.</dateline>
+               </opener>
+               <p>AFTER<note n="*" place="margin">Note that whe<g ref="char:cmbAbbrStroke">̄</g> you write to a Marchant or any other, which is not your Maiſter or is not a man of worſhip: then may you well inough beginne alwayes your letters after this maner.</note> my very heartie commendations vnto you, I pray for your good health and proſperitie, &amp;c. Theſe are certifying you, that I haue laden for your accompt in the Gabriell of Briſtow according to your remembrance, 4. tuns of oyle, which is marked with your mark in the margent. The which doth coſt the firſt pennie 11. Rials and a half the Roue, and doth amount vnto 75. Duckets, 3. Rials the tunne. More I haue laden for you 2. Roues of Coche<g ref="char:EOLhyphen"/>nele, which coſt after 160 Duckets the Kintal, and is marked according to the other marke. More 12. buts of Seck which coſt the firſt peny 15. Ds. the But: marked alſo with the former.<note place="margin">
+                     <figure>
+                        <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                     </figure>
+                  </note> Al which goods (Godwilling) I hope you ſhal well and ſafely receaue. Here within incloſed I ſend you a bill of lading for all your goods, &amp; likewiſe your accompt. Thus for this time I take my leaue, truſting my ſelfe very ſhortly to be at home, for by the grace of God I purpoſe to come alongſt in the <hi>Pleaſure:</hi> vntill which
+<pb n="14" facs="tcp:150812:12"/> time I commit you to Almightie God. </p>
+               <closer>
+                  <dateline>From S. Lucar <date>the 23. day of december. 1589.</date>
+                  </dateline>
+                  <signed>Your aſſured to my power. R. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to be vvriten to one that hath left ſome buſines to doe for him vnder your handes, there in the Country.</head>
+               <opener>
+                  <dateline>Emanuel.</dateline>
+               </opener>
+               <p>AFTER my verie hartie comendations vnto you, I pray you for your good health and proſperitie. &amp;c. Theſe are certifying you, that touching ſuch buſines which you apointed me to do for you: I haue now ſold the 4. brode clothes which you left herewith me, for 48. Dks. a peece: and haue imploied the monie ac<g ref="char:EOLhyphen"/>cording to your direction. Namely in 1. Kintal of pepper, which coſt the firſt penny 45. Duc<g ref="char:EOLhyphen"/>kets and a halfe the kintall, and haue laden it in the Minion. More in the ſame ſhip I haue laden 3. Roues of cloues, which coſt after 76. duckets the kintall, and haue marked it all with your mark as in the margent.<note place="margin">
+                     <figure>
+                        <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                     </figure>
+                  </note> The mony which you appointed me to receaue of F.B. he hath paid it me: and I haue paſſed it (and all the reſt of the monie in my hands, being in the whole 184. Duckets, 2. Rials): by exchange to Siuill in B. E. as was your remembrance. I do ſend you your accompt here within encloſed. Alſo your letter that you left with me, I haue ſent by my
+<pb n="10" facs="tcp:150812:12"/> brother in law I. R. in the Tobie. I pray you do my harty co<g ref="char:cmbAbbrStroke">̄</g>mendacions vnto my good frends at Briſtow, maſter I.P. &amp;c. Litle newes I heare worth the writing. Thus taking my leaue I commit you to Almightie God. </p>
+               <closer>
+                  <dateline>From Lisbon <date>the 5. day of Ianuarie 1589.</date>
+                  </dateline>
+                  <signed>Yours aſſured to my power. R. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to be vvritten to a friend, giuing him thanks for ſome pleaſure he hath done for you, and requeſting againe ſome farther good turne of him.</head>
+               <opener>
+                  <dateline>Emanuel.</dateline>
+               </opener>
+               <p>AFTER my very harty co<g ref="char:cmbAbbrStroke">̄</g>mendacions vn<g ref="char:EOLhyphen"/>to you: I pray for your good health &amp; pro<g ref="char:EOLhyphen"/>ſperitie, &amp;c. Theſe are giuing you moſt heartie thanks for your great pains &amp; gentleneſſe here<g ref="char:EOLhyphen"/>tofore ſhewed vnto me: aſſuring you that you ſhall find me to the vttermoſt of my power, both gratefull and mindfull to pleaſure you a<g ref="char:EOLhyphen"/>gaine in the like &amp; greater if I can be able. Deſi<g ref="char:EOLhyphen"/>ring you hartily yet once more, to let me craue ſo much your good wil, as to do me againe this one pleſure: which is, to deliuer this letter here<g ref="char:EOLhyphen"/>in cloſed, to maſter P.R. Draper, that dwelleth in Lisbon in the <hi>Roa noua:</hi> and that you would receaue for me of him 100. Duckets which I haue written to him to pay you. And when you haue receaued it, that you would be ſo
+<pb n="16" facs="tcp:150812:13"/> good as to imploie it all in good pepper, &amp; to ſet my Maſters marke on it, which is as in the margent. Praying you to agree for freyte, and to procure to haue it laden in the <hi>Pleaſure,</hi> &amp; to write a letter vnto my Maſter about it. I am ſory that I am driuen to make ſtill ſo bold vp<g ref="char:EOLhyphen"/>on you: wiſhing that you had the like or great<g ref="char:EOLhyphen"/>er occaſion to trye alſo my good will towards you. Litle newes I heare worth the writing &amp;c. Thus taking my leaue, I commit you to Almightie God. </p>
+               <closer>
+                  <dateline>From Ciuel <date>25 day of Ianu<g ref="char:EOLhyphen"/>ary. 1589.</date>
+                  </dateline>
+                  <signed>Your aſſured to my power. R. A.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter to be vvritten to a friend vvhen you vvould haue him to pleaſure you in any matter.</head>
+               <opener>
+                  <dateline>Emanuel.</dateline>
+               </opener>
+               <p>AFTER my very hartie comendations vnto you: I pray for your good health and pro<g ref="char:EOLhyphen"/>ſperitie. &amp;c. Theſe are moſt hartely to deſire ſo much your friendſhip and good will, to doe me this pleaſure: as to receaue for me out of the Gabriel when ſhe cometh to S. Lucar, 6. tu<g ref="char:cmbAbbrStroke">̄</g>nes of Lead conteining 105. peeces, being marked as in the margent: &amp; to doe ſo much as make preſent ſale of it, the beſt you can as the time ſerueth. And when you haue made ſale &amp; re<g ref="char:EOLhyphen"/>ceaued
+<pb n="17" facs="tcp:150812:13"/> monyes for it, that you would be ſo good as to ride vnto Sheres and buy for me 8. Buts of very good Secke the beſt that poſſible can be gotten, though they coſt a Ducket or two the more in a But: &amp; to lade them away as ſoone as is poſsible abord the Gabriel, marking them with the former marke in the margent. And the reſt of the monies that you ſhal haue left, I pray you to paſſe it with all ſpeede hither to Siuil vnto me. Herein (if without ſeeming ouerbold) I may craue your pains to pleaſure me: I doe aſſure you that you ſhall finde me to the vttermoſt of my power, both gratefull and mindfull to pleaſure you againe in the like and much greater if I can be able. Litle newes I heare worth the writing. Thus taking my leaue I commit you to Almightie God. </p>
+               <closer>
+                  <dateline>From Siuil <date>the 27. day of Ianuary. 1589.</date>
+                  </dateline>
+                  <signed>Your aſſured to my power. R. A.</signed>
+               </closer>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <hi>This breefe &amp; plaine order in your letters, I thinke it beſt you ſhould for a time vſe, becauſe of eaſing a while your owne young inuen<g ref="char:EOLhyphen"/>tion of Inditing: for after this maner of ſtile you may write to moſt ſortes of perſons.</hi>
+               </p>
+               <p>The ſuperſcription of your letters may be thus.</p>
+               <q>To the worſhipfull, Alderman Aldworth Marchant, dwelling in Smalſtreat in Briſtow: giue this with ſpeed.</q>
+               <pb n="18" facs="tcp:150812:14"/>
+               <q>Or ſaie: to the worſhipfull my Maſter Ma<g ref="char:EOLhyphen"/>ſter Ihon Barker marchant. &amp;c.</q>
+               <q>Or: to my aſſured good friend Maſter Tho<g ref="char:EOLhyphen"/>mas Pits marchant. &amp;c.</q>
+            </div>
+         </div>
+         <div type="notes_concerning_weights_and_measures">
+            <head>CERTAINE ESPECIAL BRIEFE NOTES OF WAIGHTS, meaſures, and value of monies in Portingale, Spaine and France, with an inſtruction for the better knowledge of diuerſe wares in thoſe countreyes.</head>
+            <div n="quintal" type="measurement">
+               <head>Of the Kintal or hundred weight of Por<g ref="char:EOLhyphen"/>tingale, Spaine, or France. </head>
+               <div n="portugal" type="country">
+                  <head>Of the Kintal of Portingale.</head>
+                  <p>
+                     <note place="margin">Obſerue beſides theſe inſtructi<g ref="char:EOLhyphen"/>ons following, to make diligent inquirie your ſelfe, in all pla<g ref="char:EOLhyphen"/>ces where you trade, of euery of theſe pointes for theſe notes may in ſome co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>tries and through time be a litle altred and changed from the rules here ſet downe.</note>
+                     <seg rend="decorInit">N</seg>Ote that in Lisbon in Portin<g ref="char:EOLhyphen"/>gale, the kintal of pepper and of ginger (which they call the leſ<g ref="char:EOLhyphen"/>ſer kintal) is 112. pound. And their Roue or quarterne waight is 28. pound, and holdeth out with our Engliſh hundred of 112. pound, and ſometimes two or thred pound more.</p>
+                  <p>The kintal of moſt ſorts of all other ſpices, as cloues, maces, nutmegs, Sinamo<g ref="char:cmbAbbrStroke">̄</g>d, &amp;c. co<g ref="char:cmbAbbrStroke">̄</g>tai<g ref="char:EOLhyphen"/>neth 128. pound, and is called the great Kintal: and the Roue containeth 32 pound, and doeth
+<pb n="19" facs="tcp:150812:14"/> hold out about 15. or 16. pound more then our Engliſh hundred.</p>
+               </div>
+               <div n="spain" type="country">
+                  <head>Of the Kintal of Spaine.</head>
+                  <p>Note that in moſt parts of Spain, their Kin<g ref="char:EOLhyphen"/>tal is, 100. li. and containeth of our Engliſh waight but<note n="*" place="margin">Note that the lead doth moſt comonly holde out after this rate of waight: but moſt ſortes of other engliſh wares, doe not ſo.</note> 102. li. So as our hundred waight is 10 in the 100. greater then theirs. Excep<g ref="char:EOLhyphen"/>ting the Kintal waight of Iron in Biskey, which is 150. pound, and doth make about 114. pound of our Engliſh waight.</p>
+               </div>
+               <div n="france" type="country">
+                  <head>Of the Kintal of France.</head>
+                  <p>Note that in Rochel and Burdeaux, and ſo in moſt parts of France, the Kintal is 100. pound: and holdeth out with our Engliſh hundred: ſa<g ref="char:EOLhyphen"/>uing that through falſhood of the wayers, it falleth leſſe in one place then in another.</p>
+               </div>
+            </div>
+            <div n="cloth" type="commodity">
+               <head>OF THE MEASVRES OF cloth in Portingale, Spaine, and Fraunce.</head>
+               <div n="portugal" type="country">
+                  <head>Portingale.</head>
+                  <p>NOte that the meaſure of cloth in Lisborne is the Couada: which conteineth about 3. quarters of our Engliſh yarde. But the meaſure of Linnen cloth, is chiefely bought and ſold by the Vare: which is about an Ell leſſe a naile of our Engliſh meaſure.</p>
+               </div>
+               <div n="spain" type="country">
+                  <head>Spaine.</head>
+                  <p>Note that the meaſure of Spaine is called the Vare: which conteineth an Engliſh yard leſſe a naile.</p>
+               </div>
+               <div n="france" type="country">
+                  <pb n="20" facs="tcp:150812:15"/>
+                  <head>France.</head>
+                  <p>Note that the meaſure of France, is the Aulne: which conteineth almoſt a naile long<g ref="char:EOLhyphen"/>er then our Engliſh Ell,</p>
+               </div>
+            </div>
+            <div n="corn" type="commodity">
+               <head>OF THE MEASVRES OF Corne and ſalt in Portingale, Spaine, and France.</head>
+               <div n="portugal" type="country">
+                  <head>Portingale.</head>
+                  <p>Note that the meaſure of corne in Lisborne is the Alquer: and 3. Alquers make about a Buſhel of our Briſtow meaſure, which is<note n="*" place="margin">The corne meaſure of Briſtow is <hi>8.</hi> gallonds Win<g ref="char:EOLhyphen"/>cheſter.</note> 8. gallonds Wincheſter: and 5. Alquers or neere therabouts, maketh a Hanic of the meaſure of Spaine.</p>
+               </div>
+               <div n="spain" type="country">
+                  <head>Spaine.</head>
+                  <p>Note that the meaſure of Spaine, is his Ha<g ref="char:EOLhyphen"/>nic, which conteineth about a Buſhell and a halfe of our meaſure of Briſtow: ſo as 2. Ha<g ref="char:EOLhyphen"/>nicks makes about 3. buſhels of ours.</p>
+               </div>
+               <div n="france" type="country">
+                  <head>France.</head>
+                  <p>Note that the meaſure of Rochel and Bur<g ref="char:EOLhyphen"/>deaux is the Boiſeau: which conteineth neere about 3. peckes of our Briſtow meaſure.</p>
+               </div>
+            </div>
+            <div n="salt" type="commodity">
+               <head>OF THE MEASVRE of Salt.</head>
+               <div n="portugal" type="country">
+                  <head>Portingale.</head>
+                  <p>ITem the meaſure of ſalt of Portingale, is cal<g ref="char:EOLhyphen"/>led the Muye: &amp; 60. Alquers makes a Muye:
+<pb n="21" facs="tcp:150812:15"/> and 2. Muyes and 15. Alquers or thereabouts,<note place="margin">The water me<g ref="char:EOLhyphen"/>ſure of Salt of Briſtow: <hi>10.</hi> gallonds VVin<g ref="char:EOLhyphen"/>cheſter: &amp; the tonne is <hi>40.</hi> of thoſe nuſurs or buſhels.</note> makes a tonne of our water meſure of Briſtow.</p>
+               </div>
+               <div n="spain" type="country">
+                  <head>Spaine.</head>
+                  <p>Item the meaſure of Salt of Spain, is called the Kayis, and 12 Hanicks goeth to a Kayis. And 2. Kayis and 3 Hanicks or thereabouts, makes a tun of our water meaſure of Briſtow.</p>
+               </div>
+               <div n="france" type="country">
+                  <head>France.</head>
+                  <p>Item in Rochel in France, the meaſure of ſalt is the Boiſeau: and 24. Boiſeans makes a Muy: and 28. Muyes maketh a hundred: &amp; 2. Muyes makes about a tunne and 5. buſhels of our Bri<g ref="char:EOLhyphen"/>ſtowe meaſure. The beſt meaſure of all is the Oldron meaſure, which is 36. Muyes to a hun<g ref="char:EOLhyphen"/>dred: and euery hundred maketh about 20. tunnes of our Briſtow meaſure.</p>
+               </div>
+            </div>
+            <div n="currency" type="commodity">
+               <head>OF THE VALVE OF MO<g ref="char:EOLhyphen"/>nies in Spaine, Portingale and France.</head>
+               <div n="spain" type="country">
+                  <head>Spaine.</head>
+                  <p>NOte that the Ducket of Spain, hath 11. rials of plate: and euerie rial of plate hath 34. Meruedis: &amp; euery Ducket 374. Meruedis. The Ducket is<note n="*" place="margin">Note that the Spaniſh ducket, is ſo much in number; but more in value.</note> 5. ſhillings ſix pence of our Engliſh monie: the rial of plate is ſix pence, &amp; the Mer<g ref="char:EOLhyphen"/>uede is leſſe then our farthing. The halfe rial of plate is 17. Meruedis: and the quartel is 8. Mer<g ref="char:EOLunhyphen"/>uedis and a halfe: and the ſingle piſtolet of gold is 11. Rials, 3. quartels being 400. Meruedis,
+<pb n="22" facs="tcp:150812:16"/> which is 6. ſhillings leſſe 3. halfe pence of our Engliſh money.</p>
+               </div>
+               <div n="portugal" type="country">
+                  <head>Portingale.</head>
+                  <p>Note that the Ducket of Portingale is 10. Rials, and euerie Rial 40. Res: &amp; euery Ducket 400. Res. The Ducket is iuſt our Engliſh crowne: the Rial of plate is ſix pence: and the Res is about halfe a farthing. The Teſton of Portingale is 2. Rials and a halfe, which is one ſhilling and three pence Engliſh: and the halfe Rial or Vinten is 20. Res, which is three pence Engliſh: and the Milres of gold is 1000. Res iuſt, which is two Duckets and a halfe, and is twelue ſhillings ſix pence Engliſh.</p>
+               </div>
+               <div n="france" type="country">
+                  <head>France.</head>
+                  <p>Note that the French crowne of France called the Eſcu, is 3. Liuers: and euery Liuer 20. Sous: and euery Eſcu 60. Sous. The Eſcu is ſix ſhillings Engliſh mony: the Liuer is two ſhillings: and the Sous is almoſt one penny &amp; farthing, for fiue Sous is ſix pence Engliſh. The Sous alſo is deuided into Liardes and into De<g ref="char:EOLhyphen"/>niers: for there goeth to the Sous 6. Liards, &amp; to the Liard 2. Deniers, and 12. Deniers to a Sous The Flemiſh crowne is 2. Sous leſſe then is the French crowne. The Teſton of France is 14. Sous and a halfe, which is one ſhilling fiue pence halfe penny: and ſome of the newer Teſtons are worth 15. Sous, which is one ſhil<g ref="char:EOLhyphen"/>ling and ſix pence Engliſh.</p>
+               </div>
+            </div>
+         </div>
+         <div type="notes_concerning_commodities">
+            <pb n="23" facs="tcp:150812:16"/>
+            <head>A BRIEFE IN<g ref="char:EOLhyphen"/>STRVCTION FOR THE BETTER KNOW<g ref="char:EOLhyphen"/>ledge of certaine wares of Portin<g ref="char:EOLhyphen"/>gale, Spaine and France.</head>
+            <div n="pepper" type="commodity">
+               <head>Pepper.</head>
+               <p>NOTE that of pepper, the greateſt and lar<g ref="char:EOLhyphen"/>geſt is beſt, &amp; that which is cleaneſt with<g ref="char:EOLhyphen"/>out much duſt. The which you ſhall trie the cleaneneſſe of it, by taking vp a handfull of it ſomewhat low in the bagge, for the duſt will appeare on your fingers after letting downe the pepper. The ruſſet coloured pepper is beſt, and that which is ſou<g ref="char:cmbAbbrStroke">̄</g>d: the which you may proue the ſoundneſſe of it, by rubbing it hard betwixt your hands If it be verie blacke of colour, and the duſt of it moiſt, and ſticking to your fingers then hath it taken wet, and is not ſo good.</p>
+            </div>
+            <div n="cloves" type="commodity">
+               <head>Cloues.</head>
+               <p>Note, that of Cloues the longeſt and ſmal<g ref="char:EOLhyphen"/>leſt ſtems are beſt, and which are cleane with<g ref="char:EOLhyphen"/>out duſt, &amp; without much of the mother cloue &amp; which are drie. The which you may proue the drineſſe of them, by breaking the ſtems of ſome of them: that if they breake ſhort and not bow, then is it a ſigne that they are good and drie. But if they be verie blacke, and will bend: then is it like they are moyſt and wet.</p>
+            </div>
+            <div n="mace" type="commodity">
+               <pb n="24" facs="tcp:150812:17"/>
+               <head>Maſes.</head>
+               <p>Note that of Maces: the greateſt and largeſt are beſt, and which are of fayer and bright o<g ref="char:EOLhyphen"/>renge colour, and and ſuch as are cleaneſt and beſt without the nutmegs, and without the bright yellow maſes.</p>
+            </div>
+            <div n="cinnamon" type="commodity">
+               <head>Sinamond.</head>
+               <p>Note that of Sinamond, the largeſt and thin<g ref="char:EOLhyphen"/>neſt rinde is beſt, and thoſe which are of fayer and bright orenge colour, and which are quic<g ref="char:EOLhyphen"/>keſt and pleaſanteſt on the tong. But the thicke rind &amp; dusky colourd Sinamon is not ſo good.</p>
+            </div>
+            <div n="nutmeg" type="commodity">
+               <head>Nutmegs.</head>
+               <p>Note that of Nutmegs, the largeſt and grea<g ref="char:EOLhyphen"/>teſt are beſt, and which are of a bright ruſſet co<g ref="char:EOLhyphen"/>lour, and ſound, waightie, and quicke on the tongue.</p>
+            </div>
+            <div n="ginger" type="commodity">
+               <head>Ginger.</head>
+               <p>Note that of Ginger, the greateſt and largeſt are beſt, and which are of yellow or faire ruſſet colour, and ſound, waightie, and hote on the tongue.</p>
+            </div>
+            <div n="sugar" type="commodity">
+               <head>Suger.</head>
+               <p>Note that of Suger, the faire and white co<g ref="char:EOLhyphen"/>lour is beſt, and which is hard, and without brownneſſe in the heart of the loafe: the which brownneſſe of it is ſeene, by hauing the loafe broken in the midſt, or otherwiſe if the whole head of the loafe round about be browne and darke coloured.</p>
+            </div>
+            <div n="calico" type="commodity">
+               <pb n="25" facs="tcp:150812:17"/>
+               <head>Calicovves.</head>
+               <p>Note that of<note n="*" place="margin">Of Calicowes are diuers and ſundry ſortes: and therfore the knowledge of them all can not be perfectly deſcribed.</note> Calicowes: the whiteſt and cleaneſt without ſtarch are beſt, and which are of fine thrid, cloſe made, and that haue ſub<g ref="char:EOLhyphen"/>ſtance in feeling the<g ref="char:cmbAbbrStroke">̄</g>. But thoſe which are much ſtarched, of great thrid, and thine wouen, are not ſo good.</p>
+            </div>
+            <div n="salt" type="commodity">
+               <head>Salt.</head>
+               <p>Note, that of Salt the brighteſt and whiteſt colour is beſt, &amp; which is cleane without durte or ſtrawes, and that which is old and not new ſalt. The which if it be new, it is perceaued by the moiſtnes of it, and by the ſticking of it to your fingers, after hard wringing of it in your hande.</p>
+            </div>
+            <div n="cochineal" type="commodity">
+               <head>Cochenele.</head>
+               <p>Note, that of Cochenele the largeſt &amp; brigh<g ref="char:EOLhyphen"/>eſt gray or ſiluer colour is beſt, and that which doth caſt the quickeſt &amp; moſt orient red in the palme of your hand, after you haue rubbed and mingled it with a litle ſpitle.</p>
+            </div>
+            <div n="oils" type="commodity">
+               <head>Oyles.</head>
+               <p>Note of Oyle, the ſweteſt, and cleareſt, yel<g ref="char:EOLhyphen"/>loweſt, greeneſt, and without water or foot, is the beſt. But if it be darke coloured, very rank and with much foote, it is not good.</p>
+            </div>
+            <div n="soap" type="commodity">
+               <head>Sope.</head>
+               <p>Note that of Portingale Sope: the whiteſt, hardeſt, dryeſt, and ſweteſt is beſt, and which hath moſt of the blew vains &amp; the colour cleer
+<pb n="62" facs="tcp:150812:18"/> &amp; faire, &amp; which (as I ſaid) is hardeſt &amp; drieſt. The which is ſomwhat perceaued, by the noiſe or ratling that it will make within the Scarne when it is ſhaken. But if it be duſkie coloured, of few blew vaines, ſoft, of greaſie and rank ſa<g ref="char:EOLhyphen"/>uour, moiſt, and clinging one to another, it is not ſo good.</p>
+            </div>
+            <div n="woad" type="commodity">
+               <head>Ode.</head>
+               <p>Note that of Ode: the knowledge &amp; good<g ref="char:EOLhyphen"/>nes thereof, is very hardly perceaued before it come to proofe of boiling, and men chuſe it e<g ref="char:EOLhyphen"/>ther by experience or good report of Soyles where it groweth, or els of the fatnes of the ode. The which is ſomewhat perceaued the fat<g ref="char:EOLhyphen"/>nes of it, by breaking a clot betwixt your fin<g ref="char:EOLhyphen"/>gers, wherin will apeere certaine vaines or thrids: the which vaines if they be many, and will ſpin long, it is a good ſigne: but if there be fewe or none, and do breake ſhort, it is an euill ſigne. Alſo ſome vſe triall of it, by rubbing it with a litle ſpitle on a knife: the which if it doe caſt a good quicke colour, &amp; doth ſomewhat ſtaine the knife: they ſay it is a good ſigne. &amp;c.</p>
+            </div>
+            <div n="iron" type="commodity">
+               <head>Iron.</head>
+               <p>Note that of Iron, the ſmalleſt and thinneſt drawen, and which hath leaſt crackes though moſt flawes, it is the beſt. And if in breaking a tong or barre, it do breake tough, &amp; not ſhort, it is good. But if it looke after a firy red colour, &amp; hath many crackes, it is not good.</p>
+            </div>
+            <div n="train-oil" type="commodity">
+               <pb n="27" facs="tcp:150812:18"/>
+               <head>Traine.</head>
+               <p>Note that of Traine: the cleareſt &amp; ſweteſt is beſt, and that which is without much foote or water. But if it be thicke and darke coloured and very ranke of ſauour, it is not good.</p>
+            </div>
+            <div n="wine" type="commodity">
+               <head>VVines.</head>
+               <p>Of wines: it can not be ſet downe by pen or words, the right knowledge of it, for it is per<g ref="char:EOLhyphen"/>ceiuable only by the taſt and ſauor. But the beſt ſorts of wines generally are, when they doe taſt pleaſant and ſtrong withall, and when they drinke cleane and quicke in the pallet of the mouth, and whe<g ref="char:cmbAbbrStroke">̄</g> they are cleere &amp; white hued if they be white wines, or of faire orient red, if they be red wines. But if they drinke weake, rough, foule, flat, inclining to egerneſſe, or long: they are not good.</p>
+            </div>
+         </div>
+         <div type="exemplar_account-book">
+            <pb facs="tcp:150812:19"/>
+            <head>Here followeth the Forme of a Spaniſh ac<g ref="char:EOLhyphen"/>compt, and howe to make a bill of la<g ref="char:EOLhyphen"/>ding, a letter of remembrance, a bill of exchange, a bill of debt, an acquittance a letter of Atturney, an obligacion, and a Policie for aſſu<g ref="char:EOLhyphen"/>rance. &amp;c.</head>
+            <pb facs="tcp:150812:19"/>
+            <p>
+               <hi>Set this following as the ſuperſcri<g ref="char:EOLhyphen"/>ption vpon the Accompt.</hi>
+            </p>
+            <q>THE ACCOMPT OF MY MASTER, ALDERMAN Aldworth marchant of the citie of Bri<g ref="char:EOLhyphen"/>ſtowe, giuen by me his ſeruant R. A. the ſixteenth day of Ianuarie. 1589.</q>
+            <div n="sales" type="part">
+               <pb n="30" facs="tcp:150812:20"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 14. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Broade clothes <hi>10.</hi> peeces and one fine Stammell: for the account of my master Alderman Aldworth marchant of the cittie of Bristow, marked vnder this marke in the margent, receiued out of the Ga<g ref="char:EOLhyphen"/>briel in Lisbone: oweth theſe charges following.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Nu<hi rend="sup">o</hi>.</cell>
+                        <cell cols="2">1.</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">"For barkage, landing, and other charges, which com<g ref="char:EOLhyphen"/>meth to <hi>4.</hi> Rials <hi>5.</hi> Res. Amount into Portingall Res. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> * M. </cell>
+                        <cell>
+                           <hi>000</hi> * V. </cell>
+                        <cell>
+                           <hi>165</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Marco custome at <hi>10.</hi> Res the packe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>010</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For meaſuring at <hi>10.</hi> Res the Cloth. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>110</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For wyndage at <hi>20.</hi> Res the packe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>020</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For brokerage at halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>236</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For aueredge at <hi>3.</hi> Ria the cloth. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>320</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my * prouiſion at <hi>2.</hi> and halfe per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>6.</hi> V. </cell>
+                        <cell>
+                           <hi>180</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The Neate hereof is <hi>238</hi> V. <hi>159</hi> Res: for which I will make you creditor in account currant. Fol. <hi>38.</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>238</hi> V. </cell>
+                        <cell>
+                           <hi>159</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>247</hi> V. </cell>
+                        <cell>
+                           <hi>200</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>
+                              <hi>Note that this letter * M. ſtandeth for Million, and this letter * V. ſtandeth for thouſand.</hi>
+                           </p>
+                           <p>
+                              <hi>Obſerue heere in the account of Sales: that you write firſt on the other ſide, what is due to your maſter and ſo ſhall you by ſight of that, the better drawe out the Neate of the charges, and alſo of your cuſtomes, brokerage, and prouiſion.</hi>
+                           </p>
+                           <p>
+                              <hi>Note that * prouiſion is not but in certaine degrees to be charged, nor Auerege.</hi>
+                           </p>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="31" facs="tcp:150812:20"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 14. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>247.</hi> V. <hi>200</hi> Res in the Sales of <hi>10.</hi> fine brode clothes, and one Stammell, and a cotton wrapper: ſold to Iaques Magomes Draper of Lisbone at <hi>53.</hi> Duckets <hi>4.</hi> Rials a cloath: &amp; the Stam<g ref="char:EOLhyphen"/>mel at <hi>75.</hi> duckets: and the cotton wrapper contai<g ref="char:EOLhyphen"/>ning <hi>40.</hi> couades, at <hi>2.</hi> Rials <hi>10.</hi> Res the couada, &amp;c. amount.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>247</hi> V. </cell>
+                        <cell>
+                           <hi>200</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="32" facs="tcp:150812:21"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 18. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Wax <hi>14.</hi> Kintals and <hi>9.</hi> pound: for the account of my master Alderman Aldworth: marked vnder this mark in the margent, receiued out of the Gabriel in Lisbone: oweth theſe charges following.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">"For barking, landing, and other charges, which com<g ref="char:EOLhyphen"/>meth to <hi>2.</hi> Rials <hi>5.</hi> Res. Amount into Portingall Res. <hi>o</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000 M.</hi>
+                        </cell>
+                        <cell>
+                           <hi>000 V.</hi>
+                        </cell>
+                        <cell>
+                           <hi>085</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For windage at <hi>5.</hi> Res the hogſhed. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>040</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For auerege at one Riall and a halfe per kintall.</cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>440</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For brokerage at halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>662</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my prouiſion at <hi>2.</hi> and a halfe per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>3.</hi> V. </cell>
+                        <cell>
+                           <hi>312</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The * Neate heereof is <hi>127.</hi> V. <hi>961</hi> Res: for which I will make creditor in account currant. Fol. <hi>38. 0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>127</hi> V. </cell>
+                        <cell>
+                           <hi>961</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>132</hi> V. </cell>
+                        <cell>
+                           <hi>500</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>* <hi>Summe all the charges in a waſt paper, and then ſubſtract it out of the totall in the other ſide: and the remainder thereof is the * Neate.</hi>
+                           </p>
+                           <p>
+                              <hi>Note that the cuſtomes and dueties vpon wares in Portingall and Spaine, doth oftentimes change: there<g ref="char:EOLhyphen"/>fore you muſt euerie voyage, make diligent inquirie of it, and ſo accordingly charge the account.</hi>
+                           </p>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="33" facs="tcp:150812:21"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 18. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>132.</hi> V. <hi>500.</hi> Res in the Sales of <hi>14.</hi> kintals and <hi>9.</hi> pound of wax, ſold to Bernard Priget marchant of Lisbon at <hi>23.</hi> Duckets <hi>5.</hi> Rials the kintall. Amount.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>132</hi> V. </cell>
+                        <cell>
+                           <hi>500</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="34" facs="tcp:150812:22"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 28. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Lead <hi>15.</hi> Tunnes containing <hi>270.</hi> peeces, for the account of my master Alderman Aldworth, mar<g ref="char:EOLhyphen"/>ked vnder this marke in the margent, receiued out of the Ioſeph in Saint Lucar, oweth theſe charges folowing.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">"For barkage, landing, and other charges which com<g ref="char:EOLhyphen"/>meth to <hi>2.</hi> Duckats <hi>5.</hi> Rials. Amount into Spaniſh Meruedis. <hi>o</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M.</cell>
+                        <cell>
+                           <hi>000</hi> V.</cell>
+                        <cell>
+                           <hi>918</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For lodge roome and waying it. Amount.</cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>730</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For windage at <hi>17.</hi> Mer. the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>255</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For * custome at <hi>7.</hi> and and a halfe per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>16.</hi> V. </cell>
+                        <cell>
+                           <hi>437</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For brokerage at halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>096</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For auerege at <hi>3.</hi> Rials per Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>530</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my * prouiſion at <hi>2.</hi> and a halfe per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>5.</hi> V. </cell>
+                        <cell>
+                           <hi>484</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The Neate hereof is, <hi>192.</hi> V. <hi>910.</hi> Meruedis: for which I will make you creditor in Account currant. Folio <hi>38. o</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>192</hi> V. </cell>
+                        <cell>
+                           <hi>910</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>219</hi> V. </cell>
+                        <cell>
+                           <hi>360</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>
+                              <hi>The eaſieſt rule to take out your cuſtome or proui<g ref="char:EOLhyphen"/>ſion vpon the 100. is onely to multiply your Totall by your number of 7. and a halfe, or 2. &amp; a halfe. And then for your halfe, take the halfe of your firſt ſumme and ſet it vnder your Multiplier, and ſo ſumme it vp altogi<g ref="char:EOLhyphen"/>ther: and all ſauing the 2. laſt figures, is your prouiſion or cuſtome.</hi>
+                           </p>
+                           <p>Example. <gap reason="math" resp="#OXF">
+                                 <desc>〈 math 〉</desc>
+                              </gap>
+                           </p>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="35" facs="tcp:150812:22"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 28. day of Ianuarie 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>219.</hi> V. <hi>360.</hi> Meruedis: in the ſales of <hi>300.</hi> Kintals and tenne poundes of lead: ſold to Franciſco Berea marchant of Siuill at <hi>21.</hi> Kials, <hi>17.</hi> Meruedis the Kintall.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>219</hi> V. </cell>
+                        <cell>
+                           <hi>360</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="36" facs="tcp:150812:23"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The 4. day of Ianuarie 1589.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Bayes <hi>20.</hi> peeces, for the account of my master Alderman Aldworth, marked vnder this marke in the margent, receiued out of the Pleaſure in S. Lu<g ref="char:EOLhyphen"/>car: oweth charges following.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Nu. </cell>
+                        <cell cols="2">1.</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">"For barkage, landing, and other charges, which com<g ref="char:EOLhyphen"/>meth to <hi>4.</hi> Rials. Amount into Spaniſh Merue<g ref="char:EOLhyphen"/>dit. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>000</hi> V. </cell>
+                        <cell>
+                           <hi>136</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For lodge roome and carriage. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>086</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For custome at <hi>7</hi> and a halfe per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>7.</hi> V. </cell>
+                        <cell>
+                           <hi>346</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For windage at <hi>17.</hi> Mer. The Packe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>017</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Auerege at <hi>1.</hi> Rial and a halfe the peece. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>020</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For broker age at halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>489</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my prouiſion at <hi>2.</hi> and a halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>2.</hi> V. </cell>
+                        <cell>
+                           <hi>548</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The Neate hereof is, <hi>86.</hi> V. <hi>318.</hi> Meruedis: for which I will make you creditor in Account currant. Folio <hi>46. 0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>086</hi> V. </cell>
+                        <cell>
+                           <hi>318</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>097</hi> V. </cell>
+                        <cell>
+                           <hi>960</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="37" facs="tcp:150812:23"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 4. day of Ianuarie 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>97:</hi> V. <hi>960.</hi> Meruedis: in the ſales of <hi>20.</hi> peeces of Bayes, folde to Pedro Me<g ref="char:EOLhyphen"/>ris Draper of S. Lucar at <hi>13</hi> Dukets <hi>4.</hi> Rials a peece. Amount.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>097</hi> V. </cell>
+                        <cell>
+                           <hi>960</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="impliments" type="part">
+               <pb n="38" facs="tcp:150812:24"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 15. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Pepper for the account of my master Alderman Aldworth marchant of the citie of Bristow, oweth <hi>124.</hi> V. <hi>800.</hi> Res for <hi>6.</hi> l. intals laden in the Gabriel of Bristow, which cost the first penny <hi>52.</hi> Dukats the kintall. Amount. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>124</hi> V. </cell>
+                        <cell>
+                           <hi>800</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>More oweth theſe charges following.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>"For <hi>16.</hi> Vares of Canuas to double bagge the pepper, at <hi>65.</hi> Res the vare. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>040</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For carriage and barkage. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>090</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For custome at the portage at <hi>9.</hi> Res per kintall.</cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>054</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For custome at the India houſe at one per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>248</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For windage. Amount. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>017</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For brokerage at halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>624</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For auerege at <hi>80.</hi> Res the bagge. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>240</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For a Diſpacho in the portage cost <hi>10.</hi> Res. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>*V. </cell>
+                        <cell>
+                           <hi>010</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my *prouiſion at <hi>2.</hi> and a halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>3.</hi> V. </cell>
+                        <cell>
+                           <hi>203</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>131</hi> V. </cell>
+                        <cell>
+                           <hi>326.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>
+                              <hi>Heere nowe in the impliments obſerue to write downe firſt your maſter dettor, for the charges of thoſe wares which you lade him.</hi>
+                           </p>
+                           <p>* <hi>Note heere that in taking your * prouiſion: you muſt ſumme all the Items before, and ſo of the totall take it out.</hi>
+                           </p>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="39" facs="tcp:150812:24"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 15. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>131.</hi> V. <hi>362.</hi> Res, in the whole charges of <hi>6.</hi> Kintals of pepper marked vnder this marke in the margent: and bought of Michaell Sebra marchant of Lisbon, at <hi>52.</hi> Duckats per Kin<g ref="char:EOLhyphen"/>kats per Kintall. Amount.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Summe totall.</cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>131</hi> V. </cell>
+                        <cell>
+                           <hi>326</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="40" facs="tcp:150812:25"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 16. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">* Cloues <hi>2.</hi> kintals, and * Maſes <hi>3.</hi> Roues: and * Si<g ref="char:EOLhyphen"/>namon one kintall <hi>2.</hi> Roues: for the account of my master Alderman Aldworth, oweth <hi>103.</hi> V. <hi>220.</hi> Res, which cost the first pennie <hi>75.</hi> Duckats <hi>4.</hi> Rials the kintall of Cloues: and <hi>83.</hi> Duckats the kintall of Maſes, &amp; <hi>68.</hi> Duckats the kintall of Synamon. A<g ref="char:EOLhyphen"/>mount. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>103</hi> V. </cell>
+                        <cell>
+                           <hi>220</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>More oweth theſe charges following.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>"For <hi>10.</hi> Vares of Canuas to double bagge the ſpices, at <hi>65.</hi> Res the vare. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>650</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For carriage and barkage. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>120</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For custome at the portage at <hi>20.</hi> Res per kintall.</cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>080</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For custome at the India houſe at one per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>032</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For windage at <hi>5.</hi> Res the bagge. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>010</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For auerege at <hi>80.</hi> Res the bagge. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>240</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For brokerage at halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>516</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my prouiſion at <hi>2.</hi> and a halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>2.</hi> V. </cell>
+                        <cell>
+                           <hi>646</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>108</hi> V. </cell>
+                        <cell>
+                           <hi>514</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>* <hi>Note that if you lade any great quantitie of diuers ſorts of ſpices: then is it conuenient that you charge and make an account of euery one ſeuerally by it ſelf. But if you but but a ſmall quantitie of ech ſort: then for breuitie &amp; eaſe of trouble, you may obſerue that forme aboue preſcribed, for the charges thereof will not be great, and euerie Marchant can quickly gueſſe the ſeuerall charge.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="41" facs="tcp:150812:25"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 16. day of December 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>108.</hi> V. <hi>514.</hi> Res in the whole charges of <hi>2.</hi> kintals of Cloues: <hi>3.</hi> Roues of Maſes: &amp; one kintall <hi>2.</hi> Roues of Synamon: laden in the Ga<g ref="char:EOLhyphen"/>briel vnder this marke in the margent: and bought of Lewis Betron and Martin Ferbuc marchants of Lisborne.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Res</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>108</hi> V. </cell>
+                        <cell>
+                           <hi>514</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="42" facs="tcp:150812:26"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 3. day of Ianuarie 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Oyles <hi>10.</hi> Pipes for the account of my master Al<g ref="char:EOLhyphen"/>derman Aldworth. oweth <hi>115.</hi> V. <hi>600.</hi> Merue<g ref="char:EOLhyphen"/>dis for <hi>400.</hi> Roues of Oyle, which cost the first penny <hi>18.</hi> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> and a halfe the Roue. Amount. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>115</hi> V. </cell>
+                        <cell>
+                           <hi>600</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>More oweth theſe charges following.</cell>
+                        <cell> </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>"For <hi>10.</hi> leare Pipes for the Oyles, which cost <hi>24.</hi> Rio. and a halfe the Pipe. Amount into Spaniſh Mer<g ref="char:EOLhyphen"/>uedis. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>8.</hi> V. </cell>
+                        <cell>
+                           <hi>330</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For watring the Pipes, and carriage of them at <hi>15.</hi> Mer. the Pipe <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>150</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Marco almeran: and bota fuera, at <hi>25.</hi> Mer. the Pipe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>250</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For S. Georges custome at one Riall per Tunne.</cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>170</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For yeſſo for the Pipes at <hi>10.</hi> Mer. the Pipe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>100</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For carriage of them to the Shrof at <hi>21.</hi> Mer. the Pipe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>210</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For filling, rowling, and hooping of them, at <hi>45.</hi> Mer. the Pipe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>450</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For the Coopers wages at <hi>3.</hi> Rials the day, being <hi>5.</hi> dayes. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>510</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Nailes, Corke, Canuas, and Leather. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>170</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Incomiendo at one per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>156</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For brokerage at halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>578</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For cartage at <hi>5.</hi> Rials the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>850</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For barkage at <hi>7.</hi> Rials <hi>12.</hi> Mer. the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>250</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For hooping againe aboorde the ſhippe at <hi>17.</hi> Mer. the Pipe. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>170</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For hundage at one Riall per Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>170</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For windage at <hi>17.</hi> Mer. the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>085</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For auerage at <hi>3.</hi> Rials per Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>510</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my prouiſion at <hi>2.</hi> and a halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>3.</hi> V. </cell>
+                        <cell>
+                           <hi>267</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>133</hi> V. </cell>
+                        <cell>
+                           <hi>976</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Note that the cuſtomes and dueties vpon wares in Spaine and Portingale doe oftentimes change: there<g ref="char:EOLhyphen"/>fore you muſt euery voyage, make diligent inquirie of it, and ſo accordingly charge the account.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="43" facs="tcp:150812:26"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 3. day of Ianuarie 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>133.</hi> V. <hi>976.</hi> Meruedis: in the whole charges of <hi>5.</hi> Tunnes of Oyles containing <hi>400.</hi> Roues: laden aboord the Gabriel in S. Lucar in Andoloſia vnder this marke in the margent: and bought of Sebastian de Lega Gentleman of Cyuell. Amount.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>133</hi> V. </cell>
+                        <cell>
+                           <hi>976</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="44" facs="tcp:150812:27"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The 5. day of Ianuarie 1589.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Sackes for the account of my master Alderman Aldworth, oweth <hi>89.</hi> V. <hi>760.</hi> Meruedis, for <hi>20.</hi> butts which cost the first pennoe <hi>12.</hi> Duckats the Butt <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer. </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>089</hi> V. </cell>
+                        <cell>
+                           <hi>760</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>More oweth theſe charges following.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>"For custome in Sheeres at <hi>7</hi> and a halfe per <hi>100.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>6.</hi> V. </cell>
+                        <cell>
+                           <hi>630</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For impoſition at <hi>15.</hi> Mer. the Butt. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>300</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Cartage to Portall at <hi>4.</hi> Ri. the Butt. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>2.</hi> V. </cell>
+                        <cell>
+                           <hi>720</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For hooping, barring, and other charges, at <hi>25.</hi> Mer. the Butt. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>500</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For nayles, corke, and canuas, at <hi>8.</hi> Meruedis the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>080</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Almerant at <hi>14.</hi> Mer. the Butt. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>280</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For brokerage at one Riall the Butt. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>680</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For hundage at one Riall the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>340</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For barkehyre at <hi>7.</hi> Rials the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>2.</hi> V. </cell>
+                        <cell>
+                           <hi>380</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For custome to S. Georges chappell at <hi>6.</hi> Mer. the Butt. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>120</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For Auerage at <hi>3.</hi> Rials the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>1.</hi> V. </cell>
+                        <cell>
+                           <hi>020</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For vllaging aborde the ſhippe, which came to <hi>187.</hi> Mer. the Butt. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>3.</hi> V. </cell>
+                        <cell>
+                           <hi>740</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For windage at <hi>17.</hi> Mer. the Tunne. <hi>0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>V. </cell>
+                        <cell>
+                           <hi>170</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"For my prouiſion at <hi>2.</hi> and a halfe per <hi>100. 0</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>2.</hi> V. </cell>
+                        <cell>
+                           <hi>788</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>111</hi> V. </cell>
+                        <cell>
+                           <hi>508</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="45" facs="tcp:150812:27"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 5. day of Ianuarie 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>Per contra: is due <hi>111.</hi> V. <hi>508.</hi> Meruedis: in the whole charges of <hi>20.</hi> Buttes of Socke, laden a<g ref="char:EOLhyphen"/>boorde the Mynnion in S. Lucar in Andolozia, vn<g ref="char:EOLhyphen"/>der this marke in the margent: and bought of Mar<g ref="char:EOLhyphen"/>tinde Leſo Citizen of Sheres.</cell>
+                        <cell cols="3">
+                           <figure>
+                              <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>111</hi> V. </cell>
+                        <cell>
+                           <hi>508</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="account currant" type="part">
+               <pb n="46" facs="tcp:150812:28"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 10. day of Ianuarie. 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">"My maſter Alder man Aldwoorth merchant of the cittie of Briſtow, oweth <hi>131</hi> V. <hi>326</hi> Res or Por<g ref="char:EOLhyphen"/>tugal monies, which being reduced into Spaniſh Mer<g ref="char:EOLhyphen"/>uedis, make <hi>123.</hi> V. <hi>118.</hi> Mer. for ſo much coſt with all charges <hi>6.</hi> kintals Pepper, as appeareth more at large Folio <hi>34.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000.</hi> M. </cell>
+                        <cell>
+                           <hi>113.</hi> V. </cell>
+                        <cell>
+                           <hi>118</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"More oweth <hi>108</hi> V. <hi>514</hi> Res, which in Spaniſh Meruedis is <hi>101</hi> V. <hi>731</hi> Mer. for ſo much coſt with all charges <hi>2</hi> kintals of Cloues: <hi>3.</hi> Roues of Maſes, &amp; one kintall <hi>2.</hi> Roues of Synamom, as appeareth more at large. Fol. <hi>35. 0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>101</hi> V. </cell>
+                        <cell>
+                           <hi>731</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"More, oweth <hi>133</hi> V. <hi>976</hi> Mer. for ſo much coſt with all charges <hi>10.</hi> pipes of Oyle: as appeareth more at large: Fol. <hi>36. 0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>133</hi> V. </cell>
+                        <cell>
+                           <hi>976</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"More oweth <hi>111.</hi> V. <hi>508</hi> Meruedis, for ſo much coſt with all charges <hi>20</hi> Buttes of Sacke, as appeareth more at large. Fol. <hi>37. 0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>111</hi> V. </cell>
+                        <cell>
+                           <hi>508</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"More oweth <hi>914.</hi> Meruedis for regiſtring the billes of exchange in Cyuill, and recouering the mo<g ref="char:EOLhyphen"/>nies, which is one Meruedi vpon the Ducket. <hi>0.</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>000</hi> V. </cell>
+                        <cell>
+                           <hi>914.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"More oweth <hi>10</hi> V. <hi>608</hi> Mer. which is <hi>28.</hi> Ds. <hi>4.</hi> Res, for ſo much cost all my charges and expences of the voyage, as appeareth by the particular account thereof, which I will deliuer you. <hi>0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>010</hi> V. </cell>
+                        <cell>
+                           <hi>608</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>"Item <hi>140</hi> V. <hi>610</hi> Mer. (which is <hi>376.</hi> Duckets leſſe <hi>14.</hi> Meru.) reſteth to ballance this account: for the which I will be countable vnto you at the ſight hereof. <hi>0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>140</hi> V. </cell>
+                        <cell>
+                           <hi>610</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe total.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>622</hi> V. </cell>
+                        <cell>
+                           <hi>465</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Note heere in the account currant: that you muſt bring all your portingall (Res) into Spaniſh (Meruedis) which is onely to multiplie your ſome of Res, by the number of 15. and ſo to diuide the multiplier of that, by the number of 16. and that maketh it into Merue<g ref="char:EOLhyphen"/>dis.<note place="margin">
+                                 <hi>Mul. 15 Deu. 16.</hi>
+                              </note> This is a principall rule, &amp; it were too long to yeeld the plaine reaſon of it. But note withall, that you muſt account after 375. Mer. to the ſpaniſh Ducket: which one Meruede is commonly allowed to the Factor or recouerer of the monies.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="47" facs="tcp:150812:28"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>The 10. day of Ianuarie 1589.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">My master Alderman Aldwerth marchant of the cittie of Bristowe, is due <hi>238.</hi> V. <hi>159.</hi> Res of Portingall monies: which being reduced into Spaniſh Meruedis, maketh <hi>223.</hi> V. <hi>274.</hi> Meruedis and is the Neate of <hi>10.</hi> ſin: brode clothes, one Stammell and a wrapper: as appeareth more at large. Fol. <hi>30.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>223.</hi> V. </cell>
+                        <cell>
+                           <hi>274</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>More is due <hi>127.</hi> V. <hi>961.</hi> Res, which in Spaniſh Meruedis is <hi>119.</hi> V. <hi>963.</hi> Mer. and is the Neate of <hi>14.</hi> kintals and <hi>9.</hi> li. of Waxe: as appeareth more at large. Folio. <hi>31. 0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>119</hi> V. </cell>
+                        <cell>
+                           <hi>963</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>More is due <hi>192.</hi> V. <hi>910.</hi> Meruedis, and is the neare of <hi>300.</hi> kintals and <hi>10.</hi> pound of Lead, as appee<g ref="char:EOLhyphen"/>reth. Folio. <hi>32. 0</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>192</hi> V. </cell>
+                        <cell>
+                           <hi>910</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>More is due <hi>86.</hi> V. <hi>318.</hi> Meruedis: and is the neate of <hi>20.</hi> peeces of Bayes, as appeareth. Fol. <hi>33.</hi>
+                        </cell>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>086</hi> V. </cell>
+                        <cell>
+                           <hi>318</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Summe totall.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Mer.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>000</hi> M. </cell>
+                        <cell>
+                           <hi>622</hi> V. </cell>
+                        <cell>
+                           <hi>465</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Note that you ſtill obſerue, to keepe a copie of eue<g ref="char:EOLhyphen"/>rie marchants account that you deale for: for ſo will it be auailable for you, if you ſhould be called in queſti<g ref="char:EOLhyphen"/>on againe, about your account.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>Thus endeth the Account.</trailer>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:150812:29"/>
+            <head>
+               <q>CONSTANTINI CRVX.</q>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>emblem featuring Christ's cross with the five wounds, including the crown of thorns and the sacred heart, encircled by a crown of thorns and a circle of flames</figDesc>
+                  <head>
+                     <q>IN HOC SIGNO VINCES</q>
+                  </head>
+               </figure>
+            </p>
+         </div>
+         <div type="instructions">
+            <pb n="49" facs="tcp:150812:29"/>
+            <head>HERE FOLLOVVE CER<g ref="char:EOLhyphen"/>TAINE POINTS NECESSARIE FOR young beginners.</head>
+            <div type="instruction">
+               <head>A briefe order for making of a bill of lading, the vvhich may ſerue for diuerſe mens goods, and may be ſent to one Marchant alone, and re<g ref="char:EOLhyphen"/>queſt him to giue aduertiſement of it to the others.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Ath<note n="*" place="margin">Note here that you obſerue to make ſtill a ſeuerall byll of lading for your maſters goods: and not to vſe this forme and order, but whe<g ref="char:cmbAbbrStroke">̄</g> your haſte of buſines is great, or when you lade but ſome ſmall cabo for a Marchant</note> laden by the grace of God in in good ſafetie in Lisbon in Por<g ref="char:EOLhyphen"/>tingale, and in S. Lucar in the pro<g ref="char:EOLhyphen"/>uince of Andalouzia in Spaine: by R. A. marchant of the citie of Bri<g ref="char:EOLhyphen"/>ſtow, abord the ſhip called the <hi>Pleaſure,</hi> wherof is maiſter for the preſent voyage W. M. and bound for the Port of Briſtowe in England, theſe goods &amp; marchandiſe following Name<g ref="char:EOLhyphen"/>ly 5. bags of pepper containing 12. Kintals and 2. Roues: for the accompt of my maiſter T. R. marchant of the citie of Briſtowe, and marked vnder this marke in the margent. More 10. pipes of oile for his accompt, marked alſo with the former marke. More 20. buts of Secke for his accompt, marked with the former marke.<note place="margin">
+                     <figure>
+                        <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                     </figure>
+                  </note>
+               </p>
+               <p>More alſo 3. Roues of Cochenele for the ac<g ref="char:EOLhyphen"/>compt of maiſter I. B. marchant of Briſtowe, and marked as in the margent. More 5. buts of ſeck for his accompt, marked with the former marke.<note place="margin">
+                     <figure>
+                        <figDesc>mark or monogram of John Brown</figDesc>
+                     </figure>
+                  </note>
+               </p>
+               <pb n="50" facs="tcp:150812:30"/>
+               <p>
+                  <note place="margin">
+                     <figure>
+                        <figDesc>mark or monogram of T I</figDesc>
+                     </figure>
+                  </note>More 8. buts of Secke for the accompt of maiſter T. I. marchant of Briſtow, and marked as in the margent. All which goods and mar<g ref="char:EOLhyphen"/>chandiſes, I R. A. purſer of the ſaid ſhip, do ac<g ref="char:EOLhyphen"/>knowledge to haue receaued aborde, well and ſufficiently condicioned. And by theſe preſents I do bind my ſelfe with the ſhip, her apparell and freight, to deliuer the ſayd goods in iuſt or<g ref="char:EOLhyphen"/>der and condition againe vnto the marchants and owners aforſaid, God ſending the ſhip and goods to her Port in ſafetie. In witneſſe of truth I R.A. Purſer haue vnto<note n="*" place="margin">Note that your are to make either <hi>2.</hi> or <hi>3.</hi> of theſe billes</note> two of theſe billes of lading ſet my hand, giuen the 20. day of Ianua<g ref="char:EOLhyphen"/>rie. 1589.</p>
+               <closer>
+                  <signed>By me R. A.</signed>
+               </closer>
+            </div>
+            <div type="instruction">
+               <head>A briefe order for making a marchants particular remembrance.</head>
+               <p>A Remembrance for you my ſeruant R. A., that principally you do with dilige<g ref="char:cmbAbbrStroke">̄</g>ce<note n="*" place="margin">Theſe words haue relation to the Generall remembrance ſpoken of in the beginning.</note> read &amp; regard the counſel of that litle booke which I now geue you. And now (God willing) at your comming to Lisbon, you ſhal receaue out of the Ioſeph wherin you go, one packe of 10. fine brode Clothes, and 1. fine ſtamell cloth, with a gray cotten wraper, the which are mar<g ref="char:EOLhyphen"/>ked as in the margent.<note place="margin">
+                     <figure>
+                        <figDesc>mark or monogram of Thomas Aldworth</figDesc>
+                     </figure> Nu<hi rend="sup">o.</hi> 1.</note> The brode clothes ſtand me with all charges twelue pound a cloth, and I hope they will yeld you in Lisbon about 52. duckets. The Sta<g ref="char:cmbAbbrStroke">̄</g>mel ſtandeth me in 17. pound,
+<pb n="51" facs="tcp:150812:30"/> and I hope will yeld you 75. Duckets: &amp; the wrapper coſt 30. ſhillings. All which doe you your beſt indeuoure, to ſell as the time ſerueth. More (God willing) you ſhall receiue 3. Hogs heads of waxe, marked alſo with the former marke, wherin is 14. hundred and 13. pound. It doth ſtand me all charges, about 5. pound 12 ſhillings the hundreth: the which you may ſell for 25. Duckets a Kintall, if time ſo offereth. More alſo you ſhall receaue for my acompt 20 tunnes of lead, conteining 345. peeces marked as in the top of the former page: the which if you cannot ſel to ſome reckning in Lisbon, do you let it go along in the Ship to S. Lucar, and there to ſell it aſwell as you may: I hope it will be worth 22. Rials the Kintal.</p>
+               <p>And now for my impliments, do you lade me in the Ioſeph 8. Kintals of good and large pepper, and ſe that it be well made vp in good bagges, &amp; giue charge it may be ſtowed in the drieſt part of the ſhip. more at your coming to S. Lucar, do you lade me in the Gabriel 5. tuns of good oyles: and do you ſee well both to the watring and hooping of your caſke, and to the cleannes of the Oyle that it be without foote. More do you alſo lade in the Vnicorne 12. pipes of Oyle, and haue care vnto it as before I haue ſaid. More lade me in the ſame ſhip the Vnicorne 16. Buts of very good Secke, and do you giue a Ducket or two the more in a But, to
+<pb n="52" facs="tcp:150812:31"/> haue them principall good. And if after you haue bought al theſe wares, there be any ſurplus money remaining: do you beſtow it in good Cochenele, ſo farr as it will riſe, and marke all theſe goods with my marke as is before in the margent. But if it fall out that you ſhall want any monies, to furniſh the lading of 15. tunnes in the Vnicorne, which I am bounde vnto: the<g ref="char:cmbAbbrStroke">̄</g> requeſt ſo much frie<g ref="char:cmbAbbrStroke">̄</g>dſhip of T. M. to furniſh that which you want, in monyes by exchang: and agree with him for the exchange ſo good cheape as you can, as about 6. ſhillings and 4. pens or 6. ſhillings and 8. pens the Ducket, and this my letter ſhall be your warrant. Make ma<g ref="char:EOLhyphen"/>ſter W. O. in Lisbon, and maſter I. T. in S. Lucar, your friends to ayd and inſtruct you, in the buying and ſelling of all your wares: and giue the<g ref="char:cmbAbbrStroke">̄</g> that thing, which I deliuered you, for a token of goodwill from me. Inquire ſecretly what wares are in good requeſt &amp; beſt vendi<g ref="char:EOLhyphen"/>ble: and ſend me ſpeedy and ſecret intelligence of it. See that the purſer of the Vnicorne firme you billes of lading. Thus exhorting you to re<g ref="char:EOLhyphen"/>member your duety towardes God: whom I beſeech to protect you euermore by his holy Spirit, and proſper you in all your affaires. Bri<g ref="char:EOLhyphen"/>ſtow this 17. day of December. An. 1589.</p>
+               <closer>
+                  <signed>Your Maſter to do you any good that you ſhall deſerue. T. A.</signed>
+               </closer>
+            </div>
+            <div type="exemplar_bill_of_exchange">
+               <pb n="53" facs="tcp:150812:31"/>
+               <head>The forme of a bill of exchange for the countrey of Spaine.</head>
+               <p>VVOrſhipfull: may it pleaſe you to pay vpon this my firſt bill vnto R. N. or the bearer hereof, within 15. dayes after the ſafe arriuall of the Gabriell of Briſtow to her Port of diſcharge:<note n="*" place="margin">Note that you muſt make <hi>3.</hi> of theſe billes</note> 
+                  <note n="*" place="margin">Thirty and thre pound ſix ſhillings ond eight pence.</note> thirtie and three pounds, ſixe ſhillings and eight pence. Which is for 100. Duckets that I haue taken vp by exchange for your vſe of T.M. a marchant of London at ſix ſhillings and eight pence the Ducket. From S. Lucar the 16. day of December. 1589.</p>
+               <closer>
+                  <signed>By me R. A.</signed>
+               </closer>
+            </div>
+            <div type="exemplar_bill_of_exchange">
+               <head>Say as folovveth in your ſecond bil of exchange, and ſo accordingly in the third.</head>
+               <p>Worſhipful: may it pleaſe you to pay vpon this my ſecond bill (my firſt not being payed) vnto R. N. or the bearer hereof: and ſo foorth as in the other.</p>
+            </div>
+            <div type="exemplar_bill_of_exchange">
+               <head>A bill of Exchange to be made in England.</head>
+               <p>VVItneſſeth this preſent bill of exchange: that I R. A. marchant of the citie of Briſtowe, do owe vnto T. M. marchant of the ſayd citie, the ſumme of 100. Duckets: I ſay an hundred Duckets of currant monie of Spaine, accompting after 11 rials of plate to the Ducket. To be payd vnto the ſayd T. M. or his aſſignes,
+<pb n="54" facs="tcp:150812:32"/> within 10. dayes next and immediatly after the ſafe arriuall of the good ſhip called the Gabriel of Briſtowe, to the port of S. Lucar in Anda<g ref="char:EOLhyphen"/>louzia in Spaine, or any other porte of hir diſ<g ref="char:EOLhyphen"/>charge. And for the true payment therof, I the abouenamed R A. do binde me, my goods my heirs executors, &amp; aſſignes, firmly to theſe preſents. In witneſſe of the truth, I haue cauſed two of theſe billes to be made (the which the one being payed, the other to be voide): and haue put my firme and ſeale vnto them, &amp; deli<g ref="char:EOLhyphen"/>uered them as my deed, in Briſtow the 15. day of September 1589. and in the 31. yeare of our ſoueraigne, Queene Elizabeth her maieſties raigne. &amp;c.</p>
+            </div>
+            <div type="exemplar_receipt">
+               <head>An aquitance.</head>
+               <p>Witneſſeth theſe preſents: that I R.A. mar<g ref="char:EOLhyphen"/>chant of the City of Briſtow, haue receaued of T. M. marchant of the ſaid city, the ſumme of a hundred Duckets currant monies of Spaine, due vnto my maſter T. A. as apeared by a bill of exchange. Wherefore to teſtify that I am truely ſatisfied &amp; payd of the aforeſaid ſumme: I haue vnto this aquittance ſet my firme, and deliuered it as my deed the 18. day of Nouem<g ref="char:EOLhyphen"/>ber. 1589.</p>
+               <closer>
+                  <signed>By me R. A.</signed>
+               </closer>
+            </div>
+            <div type="exemplar_bill_of_attorney">
+               <head>A bill of Atturney.</head>
+               <p>Witneſſeth theſe preſents: that I R. A. mar<g ref="char:EOLhyphen"/>chant of the City of Briſtow, do ſubſtitute and
+<pb n="55" facs="tcp:150812:32"/> appoint my true &amp; lawful atturney T. M. mar<g ref="char:EOLhyphen"/>chant of Bridgwater: to recouer &amp; receaue of G. H. marcha<g ref="char:cmbAbbrStroke">̄</g>t of the aforeſaid City of Briſtow the ſumme of 25. pound, due vnto me as appea<g ref="char:EOLhyphen"/>reth by his bil. Wherfore I giue alſo to the ſaid T. M, all my owne full power and authority, to deale and to do as in ſteed of my ſelf. In wit<g ref="char:EOLhyphen"/>neſſe of the truth, I haue vnto this preſent bill of Atturney, put my firme and ſeale, &amp; deliuer<g ref="char:EOLhyphen"/>ed it as my deed, in Briſtow the 17. day of our Soueraigne, Queene Elizabeth her Maieſties Raigne &amp;c.</p>
+            </div>
+            <div type="exemplar_bill_of_debt">
+               <head>A bill of debt.</head>
+               <p>BE it known to all me<g ref="char:cmbAbbrStroke">̄</g> by theſe preſents: that I R. A. marchant of the Citie of Briſtowe, owe vnto T. M. marchant of the ſaid City: the ſumme of 25. pounds 8. ſhillings, of good &amp; currant moneys of England, to be payd vnto the ſaid T. M. or his asſignes, at or vpon the 25. day of Iuly next enſuing the date hereof. And for the true payment thereof: I the abouenam<g ref="char:EOLhyphen"/>ed R. A. do binde me, my goods, heirs, execu<g ref="char:EOLhyphen"/>tors, adminiſtrators, and asſignes firmely by theſe preſents. In witneſſe of truth I haue cauſ<g ref="char:EOLhyphen"/>ed this bill of debt to be made, and haue here<g ref="char:EOLhyphen"/>unto put my firme and ſeale, and deliuered it as my deede, in Briſtow the 4. day of May 1589. and in the 31. yeare of our Soueraigne, Queene Elizabeth her Maieſties Reigne. &amp;c.</p>
+               <pb n="56" facs="tcp:150812:33"/>
+               <q>
+                  <p>
+                     <label>A Bond or Obligacion.</label> Nouerint vniuerſiper praeſentes me R. A. de ciuitate Briſtoliae mercatore<g ref="char:cmbAbbrStroke">̄</g>, teneri et firmiter obligari T. M. de eadem ciuitate Mercatori: in viginti libris bonae &amp; legalis monetae Angliae. Soluendis eidem T. M. aut ſuo certo Attur<g ref="char:EOLhyphen"/>nato executoribus, ſiue adminiſtratoribus ſuis. Ad quam quidem ſolutionem bene &amp; fideliter faciendam, obligo me, heredes, executores &amp; adminiſtratores meos, firmiter per praeſentes. Sigillo meo ſigillatum, datum ſeptimo die No<g ref="char:EOLhyphen"/>uembris, anno regni Dominae noſtrae Elizabe<g ref="char:EOLhyphen"/>thae, Dei gratia Angliae, Franciae, &amp; Hyber<g ref="char:EOLhyphen"/>niae Reginae, fidei defenſ. &amp;c. triceſimo primo.</p>
+               </q>
+               <p>The condition of this Obligacion is ſuch, that if the abouebounden R. A. his heires, executors or aſſignes, doe well and truly content and pay, or cauſe to be contented and payd, vnto the a<g ref="char:EOLhyphen"/>boue named T.M his executors, adminiſtra<g ref="char:EOLhyphen"/>tors, or aſſignes, the ſumme of tenne pounds of good and currant money of England, on the ſixteenth day of May next inſuing the date a<g ref="char:EOLhyphen"/>boue written, without couen or fraude: That then this obligacion to be void, or elſe to ſtand in full force and vertue.</p>
+            </div>
+            <div type="exemplar_bill_of_assurance">
+               <head>A Policie or vvriting of aſſurance.</head>
+               <p>IN the name of God Amen. Be it known vn<g ref="char:EOLhyphen"/>to all men by theſe preſents: that Thomas Aldworth marchant of the citie of Briſtowe
+<pb n="57" facs="tcp:150812:33"/> doth make aſſurance and cauſeth him ſelfe to be aſſured from the Port of the ſayd citie of Bri<g ref="char:EOLhyphen"/>ſtow called Hungrode vnto the port of Lisbon in the kingdome of Portingale, and therehence directly backe againe to the aforeſayd Port of Briſtow: vpon the bodie, tackle, apparell, ordi<g ref="char:EOLhyphen"/>nance, munition, artillerie, boate, and other fur<g ref="char:EOLhyphen"/>niture, of the good ſhip called the Gabriell of Briſtow, of the burthen of 60. tunnes or there<g ref="char:EOLhyphen"/>abouts. And alſo vpon all goods, wares, and marchandiſes laden or to be laden in the afore<g ref="char:EOLhyphen"/>ſayd ſhip the Gabriel, whereof is maiſter vnder God for this preſent voyage R.M. or by what other name the maiſter of the ſhip may or ſhal be called. Beginning the aduenture from the day and houre of the lading of the anker, ſprea<g ref="char:EOLhyphen"/>ding the ſayle, and departure of the ſayde ſhip from Hungrode aforeſaid. And ſo ſhall conti<g ref="char:EOLhyphen"/>nue and endure vntill ſuch time as the ſaid ſhip with all her ſayd furniture, &amp; all the goods and marchandiſes laden in her, ſhall returne and ſafely arriue back againe from Lisbon vnto the Port of Hungrode aforeſayd, &amp; there hath ſur<g ref="char:EOLhyphen"/>ged and mored at an anker by the ſpace of 24. houres in good ſafetie. Touching the aduen<g ref="char:EOLhyphen"/>tures and perils which we the aſſurers hereaf<g ref="char:EOLhyphen"/>ter named are contented to beare and take vpon vs this preſent voyage, are of the ſeas, men of warre, fire, enemies, pirats, rouers, theeues, Iet<g ref="char:EOLhyphen"/>teſons, letters of marke and countermarke,
+<pb n="58" facs="tcp:150812:34"/> arreſts, reſtraints, and detainment of Kings and Princes &amp; of all other perſons, barratry of the Maſter and mariners, &amp; of all other perils, loſ<g ref="char:EOLhyphen"/>ſes, &amp; miſfortunes whatſoeuer they be, or how<g ref="char:EOLhyphen"/>ſoeuer to the damage or hurt of the ſayd Ship and goods or any part or parcell thereof. And that in caſe of any miſfortunes: it ſhall then be lawfull to the aſſured his factor, ſeruant, or aſ<g ref="char:EOLhyphen"/>ſigne, to ſue labour, &amp; trauail, for in and about, the defence ſafgard and recouerie of the ſaid Ship &amp; goods, &amp; all other the premiſſes, with<g ref="char:EOLhyphen"/>out any preiudice to this aſſurance. To the char<g ref="char:EOLhyphen"/>ges wherof we th'aſſurers ſhal contribute eche one according to the rate and quantity of his ſumme herein aſſured. It is to be vnderſtood that this preſent writing and aſſurance ſhall be of as much force, ſtrength &amp; effect, as the beſt and moſt ſureſt pollicie or writing of aſſu<g ref="char:EOLhyphen"/>rance which hath bene euer heretofore vſed to be made in Lumbard ſtreete, or now within the Roial exchange in London. And ſo we the aſſurers are contented, and doe promiſe and bind our ſelues and euerie of vs, our heirs, exe<g ref="char:EOLhyphen"/>cutors and aſſignes, for the true performance of the premiſes, acording to the vſe and cuſtome of the ſaid ſtreete, or Royall exchange. Con<g ref="char:EOLhyphen"/>fesſing our ſelues to be fully ſatisfied and paied of and for the conſiderations due vnto vs after the rate of 7. vpon the 100. And in teſtimony of the truth we the aſſurers haue hereunto ſe<g ref="char:EOLhyphen"/>uerally
+<pb n="59" facs="tcp:150812:34"/> ſubſcribed our names and ſummes of money aſſured,</p>
+               <closer>
+                  <dateline>giuen in London <date>the 19. day of September. 1589.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>I W. N. marchant of London am content with this aſſurance (which God preſerue) for 25. pounds this 19. day of September. 1589.<note place="margin">25 <hi>li.</hi>
+                           </note>
+                        </item>
+                        <item>I R. T. marchant of London am content with this aſſurance (which God preſerue) for 25. pounds this 20. day of September. 1589.<note place="margin">25 <hi>li.</hi>
+                           </note>
+                        </item>
+                        <item>I M. R. marchant of Briſtow am content with this aſſurance (which God) preſerue for 15. pound this 21. day of September 1589.<note place="margin">25 <hi>li.</hi>
+                           </note>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:150812:35"/>
+            <head>
+               <q>CONSTANTINI CRVX.</q>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>emblem featuring Christ's cross with the five wounds, including the crown of thorns and the sacred heart, framed by a crown of thorns and a circle of flames</figDesc>
+                  <head>
+                     <q>IN HOC SIGNO VINCES</q>
+                  </head>
+               </figure>
+            </p>
+         </div>
+         <div type="aphorisms">
+            <pb n="61" facs="tcp:150812:35"/>
+            <head>HERE FOLLOVVE CER<g ref="char:EOLhyphen"/>TAINE GODLY SENTENCES, NE<g ref="char:EOLhyphen"/>ceſſarie for a youth to meditate vpon.</head>
+            <p>
+               <seg rend="decorInit">F</seg>IRST ſeeke the kingdome of God and the righteouſneſſe thereof: and then all things ſhall be giuen thee that thou haſt neede of.</p>
+            <p>Apply thy ſelfe vnto labour while thou art young, leſt in thine old age thy body become full of diſeaſes, and thy ende be in reproch and pouertie.</p>
+            <p>The godly and diligent man ſhall haue pro<g ref="char:EOLhyphen"/>ſperitie in all his wayes: but he that followeth pleaſure and voluptuouſneſſe, ſhall haue much ſorow before he die.</p>
+            <p>Take heede of vſing a falſe ballance or mea<g ref="char:EOLhyphen"/>ſure, for it is an abhomination before God: and a ſwearing and lying tongue, maketh hote the curſe of God vpon his houſe.</p>
+            <p>Couet not ouermuch familiaritie amongſt men: for it maketh thee ſpend much loſſe of time.</p>
+            <p>Let not thy expences be equall with thy
+<pb n="62" facs="tcp:150812:36"/> gaynes: for either Sicknes, naughtie dettors, let of trade, and misfortune by the ſea or land, may ſoone ouetthrow thee.</p>
+            <p>Linke not in amity with too many me<g ref="char:cmbAbbrStroke">̄</g> that are aboue thy calling: for it will much increaſe thy trouble and charge.</p>
+            <p>Beware in any caſe of ſuertiſhip: for it ma<g ref="char:EOLhyphen"/>keth thy friend thine enemy; it indangereth thy eſtate; and impaireth thy owne credit.</p>
+            <p>Be not haſty in giuing credit to euery man; but take heed to a man that is ful of words, that hath red eyes, that goeth much to law, and that is ſuſpected to liue vnchaſte.</p>
+            <p>When thou promiſeſt any thing: be not ſlacke to performe it, for he that giueth quick<g ref="char:EOLhyphen"/>ly, giueth double.</p>
+            <p>If either of goodwill or necesſity thou muſt doe a thing, ſee thou do it gladly &amp; cheerfully: for ſo ſhall thy gift be well accepted, &amp; thy la<g ref="char:EOLhyphen"/>bour and coſt neuer a whit the more.</p>
+            <p>Remember often thy Creator, and how he hath made the whol compaſſe of the day and night to ſerue thee, but thee to ſerue only him. Wherefore if thou requite not thy maker, to ſerue him one houre or litle mome<g ref="char:cmbAbbrStroke">̄</g>t of the day, for foure and twenty houres which he ſerueth thee: for thy beaſtly vnthankfulnes thou haſt loſt both thy light in this world, and ſhalt find darknes in the world to come.</p>
+            <p>If thou wilt proſper, pray: if thou wilt haue
+<pb n="63" facs="tcp:150812:36"/> bleſſinges, reſtore what thou haſt euill got<g ref="char:EOLhyphen"/>ten: if thou wilt haue ioye of thy labours, be ſingle in thy tongue and eye, vſe no lying nor deceit.</p>
+            <p>Thinke it not inough to refraine thee from doing euill: but know that it is alſo thy dutie to do that which is good. Therefore be ferue<g ref="char:cmbAbbrStroke">̄</g>t for the praiſe of thy Creator: geue good ex<g ref="char:EOLhyphen"/>ample: put forwards thy Children &amp; ſeruants in the ſeruice of God: help the widow, the fa<g ref="char:EOLhyphen"/>therleſſe, the ſtranger, the poore, and the op<g ref="char:EOLhyphen"/>preſſed.</p>
+            <p>Do vnto another as thou wouldeſt be done to thy ſelfe: and offer not that vnto another, which thy ſelf wouldeſt take in offence.</p>
+            <p>Be not greedy nor in luſt after that, which is both diſpleaſant vnto God; hurtfull to thy body; an enemy to thy ſoule; and a ſhortner of thy life: which is: Wine, Wealth, and Women.</p>
+            <p>What winneth a man by whordome? euen but a moment any pleaſure; a preſent ſorrow to his minde; a perpetuall ſicknes to his bodie; and eternall damnation (without hartie repen<g ref="char:EOLhyphen"/>tance and amendment) to his ſoul.</p>
+            <p>What profiteth a man by deceit, forſwear<g ref="char:EOLhyphen"/>ing, and diſsimulation? he heapeth to himſelfe the horrible vengeance of God? and ſeruantes who ſhall ſerue him the like; and offereth his ſoul as a pray vnto Sathan.</p>
+            <pb n="64" facs="tcp:150812:37"/>
+            <p>What auayleth it a man to fare delicately, &amp; to drinke much of pleaſant &amp; ſtrong drinks? His mouth receaueth twiſe ſo much bitterneſſe as it had before delight; he ſhall become cor<g ref="char:EOLhyphen"/>rupt as the Tode, and ſhall returne to vomite with the dogge.</p>
+            <p>What getteth a man by lying? Not to be beleeued when he ſpeaketh truth.</p>
+            <p>Feare God: for he can deſtroy both thy bo<g ref="char:EOLhyphen"/>die and ſoule.</p>
+            <p>Honor thy Prince: for ſhe hath power ouer life and death.</p>
+            <p>Loue thy parents: for they are the beſt frie<g ref="char:cmbAbbrStroke">̄</g>ds thou ſhalt euer haue.</p>
+            <p>Giue reuerence to thy betters: for therein thou ſhalt haue honor to thy ſelfe.</p>
+            <p>Be curteous and lowly to all men: for there<g ref="char:EOLhyphen"/>by thine enemies report ſhalbe doubted of.</p>
+            <p>Be not wiſe in thine owne conceipt: for thou canſt not know all thine owne imperfections.</p>
+            <p>Be not carefull to pleaſe thine eye: for it is the deceiptfulleſt enemie thou haſt.</p>
+            <p>Remember who made thee: it was God: remember of what thou waſt made: euen of earth and clay. Remember wherfore thou waſt made: to honor and glorifie God. Remember to what thou ſhalt be made: euen to duſt and aſhes. Remember to what thou mayſt be made againe: euen a glorious and immortall bodie.</p>
+            <p>Who ſo taketh vpon him the degree of a
+<pb n="65" facs="tcp:150812:37"/> ſeruant, let theſe three things be his chiefeſt thought and meditation. The firſt that euerie morning and euening, he performe his dutifull obedience and thankeſgiuing, by his prayers vnto God. The Second, that he alwayes carie in mind, what carefulneſſe, truth, and diligence, is required in his ſeruice towards his maiſter. The third, how he himſelfe may liue with ho<g ref="char:EOLhyphen"/>neſtie and credit in time to come.</p>
+            <div type="fable">
+               <head>THE CONCLVSION, VVHICH is an hiſtorie very profitable and delightful for a youth to reade and meditate.</head>
+               <p>THere was a certaine Philoſopher, who lying on his death bed, called his ſonne, &amp; ſayd theſe words vnto him. My ſonne when I thy father am dead, remember me by recomp<g ref="char:EOLhyphen"/>ting often vnto thy ſelfe this counſell which now I giue vnto thee. Firſt learne of the little ſinging birds, who neuer miſſe in the morning and at euening, but in their kinde, they yeeld foorth their voices in praiſe and reioycing of their Creator and maker: and ſo ſee that thou alſo do neuer forget &amp; neglect the ſame.</p>
+               <p>Learne of the litle emet, that prouideth in the ſommer her foode for the winter: and ſo ſee that thou alſo in thy youth, labor for thy main<g ref="char:EOLhyphen"/>tenance againſt thine age. Learne of the cocke, that often watcheth and croweth in the night,
+<pb n="66" facs="tcp:150812:38"/> both to preſerue himſelf and his fellowes from the wefell: and ſo ſe that thou often watch, and ſtretch forth thy voice in prayer by night vnto God, and in that quiet time, ſtudie to preue<g ref="char:cmbAbbrStroke">̄</g>t thy dangers. Learne of the litle dog, who becauſe he is the humbleſt creature of all vnto man, is therfore moſt loued and eſteemed: &amp; ſo ſee that thou euermore ſhew thy ſelfe humble &amp; lowly vnto euery man. Learne of the ſilk worm, who as ſoone as ſhe gathereth ſtrength to yeeld anie vertue fro<g ref="char:cmbAbbrStroke">̄</g> her, neuer ceaſſeth nor waxeth wea<g ref="char:EOLhyphen"/>rie vntill ſhe die: and ſo ſee that thou alſo conte<g ref="char:cmbAbbrStroke">̄</g>t not thy ſelf, to do thy duty to God and man for a time, (as moſt men do) but ſtill continue in vertue till thy verie liues end.</p>
+               <p>Thus my ſonne (quoth he) if thou wilt obey this my counſell, it ſhall alwayes go well with thee: but contrariwiſe if thou forſake it, &amp; fol<g ref="char:EOLhyphen"/>low thine owne imaginations, it will happen vnto thee according to this example. There dwelt by a foreſt ſide a ſhepheard, who to pre<g ref="char:EOLhyphen"/>ſerue his ſheepe from a lion, which oftentimes had caried them away for a pray to his whelp, prepared many ſnares and engines to deſtroy this lion: but the old lio<g ref="char:cmbAbbrStroke">̄</g> perceauing theſe traps to be layd for him, departed with his yong one to another forreſt. But when the whelp grewe to be as big a lion as his father, he thus ſaith vn<g ref="char:EOLhyphen"/>to him: Father me thinks I can remember that this place is not the cuntrey where I was born,
+<pb n="67" facs="tcp:150812:38"/> what then was the cauſe that made thee to de<g ref="char:EOLhyphen"/>part there hence? Saith the old lion, my ſonne it is not indeed our natiue cuntrey: but there is a litle dwarf a man dwelling in that place, who<g ref="char:cmbAbbrStroke">̄</g> for his ſubtle traps that he laid to take from me my life, I feared, and ſo fled therehence. Saith the yong lion: and I ſweare by my beard that I will be reuenged of him, and will go now and teare him in peeces with my teeth. Nay (ſayth the old lion) do not ſo, for if I my ſelf could not poſſibly get reue<g ref="char:cmbAbbrStroke">̄</g>ge againſt him, thou canſt not in any ſort do it. But the yong lion would not be ruled by his father, but goeth vnto this foreſt where the ſhepheard dwelt: who finding him within his houſe &amp; the dores ſhut, called vnto him and ſayd, ô thou naughtie &amp; vile wretch, why haſt thou ſo abuſed my father, as to driue him from his natiue cuntrey, ouer which &amp; all the beaſts therof, he raigned as king: I tell thee that I his ſonne wilbe reuenged of thee for ma<g ref="char:EOLhyphen"/>king him ſo to looſe his right. The man being within his houſe ſtoutly anſwered: I regard not a ruſh either thee or thy father, but if thou once offer to enter within my doores, I haue here both my ſtaffe and my axe to beate and to cut thee in peeces. The yong lion was ſtraight wayes amazed at his ſtout wordes, and ſayde: then come thou forth, and go with me to yon<g ref="char:EOLhyphen"/>der moyle, and let him be iudge betwixt thee &amp; me, whether thou haſt done my father wro<g ref="char:cmbAbbrStroke">̄</g>g or not, Saith the ſhepheard: if thou wilt adiure
+<pb n="68" facs="tcp:150812:39"/> and ſweare to do me no harme, I will go with thee. So the yong lion ſware vnto him to doe him no harme. The man then leadeth the way vnto the lion, by thoſe engins that he had pre<g ref="char:EOLhyphen"/>pared long before: and anon the yong lion fell into one of his pits, and was entangled by his 2 forefeet. O (ſaith the lion) helpe me, for I know not what is this that hath bound my feete verie faſt together. Saith the ſhepheard, I am not able to helpe thee, but tary thou here, and I will go and call hither the moile. But the lion as well as he could, did yet get forth of the pit, &amp; went iumping and leaping to follow after the man. By and by againe he fel into another pit, wher<g ref="char:EOLhyphen"/>by his two hinder leggs were alſo caught faſt. The ſhepheard now ſeeing him well tyed and bound: he then cutteth with his knife a good greene ſtaffe, &amp; beginneth to lay blows ſtro<g ref="char:cmbAbbrStroke">̄</g>gly vpon the lion. The lion then remembred his father, and ſaid to the man: ô beat me not on my back nor my belly, but rather beat me on mine eares &amp; on my heart: becauſe with mine eares I would not heare the counſel of my father, nor with my heart would not beleeue it, when he ſaid thou hadſt more ſubtlety to preuaile, then I had ſtrength. So the man beat him ſo long, both on the eares and the heart, that in the end he killed him. Euen ſo (ſaith the Philoſopher to his ſonne) will deſtructio<g ref="char:cmbAbbrStroke">̄</g> come vpon thoſe which ſhall not accept &amp; obey the good coun<g ref="char:EOLhyphen"/>ſell and inſtructions of their aged fathers.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
